@@ -1,0 +1,17 @@
+Settings {
+    position:fixed;
+    width: 50vw;
+    height: 50vh;
+    background-color: white;
+
+}
+
+.css-10d30g3-MuiPaper-root-MuiDialog-paper {
+    width: 500px;
+}
+
+.preferenceChoice {
+    display: flex;
+    flex-direction: row;
+    width:100%
+}

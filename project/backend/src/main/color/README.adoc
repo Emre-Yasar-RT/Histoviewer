@@ -1,0 +1,31 @@
+= Color Analysis
+
+The color analysis aims to characterize the histology images by their characteristic color.
+
+The following steps were performed:
+
+* Use `ImageMagick` to extract the 5 most common colors from an image
+** `magick convert $file -median 5 -format %c -quantize HSV -colors 5 histogram:info:- >> out.txt`
+* Convert this output to a list of five colors for each image.
+** The resulting file has five lines per image, one for each color with the following attributes:
+*** image file name
+*** number of pixels: the number of pixels in the image covered by this color
+*** hue [0-360 deg], saturation [0-100%], brightness [0-100%]
+*** color [hex]: Note that this value is wrong, do not use!
+** resulting file: `color-analysis.txt`
+
+* Convert this text file to a more compact `JSON` file
+** `grouped-color-analysis.json`
+
+* Use an algorithm to determine an appropriate characteristic color for each image. The rule is:
+** use the most frequent of the five colors that satisfies the condition: saturation > 30 AND brightness > 30, else set HSB to (0, 0, 100)
+** Note that the threshold value of 30 for saturation and brightness are somewhat arbitrary, not a lot of experimentation and thought have gone into that
+** compute the coverage: the percentage of pixels in an image that is covered by the characteristic color
+** resulting file: `characteristic_colors_corrected.json`
+
+* As a quick proof of concept, create the following plots:
+** Plots:
+*** hue vs. coverage
+*** histogram of hues
+*** hue vs. coverage (hue plotted radial)
+** resulting file `color-analysis.png`

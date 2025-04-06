@@ -1,0 +1,5681 @@
+{
+    "001h1001.jpg": {
+        "hue": 26.2045,
+        "saturation": 38.6613,
+        "brightness": 70.8189,
+        "pixels": 113113,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.384298896499239
+    },
+    "002p1009.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "003p1010.jpg": {
+        "hue": 209.544,
+        "saturation": 33.2043,
+        "brightness": 73.3823,
+        "pixels": 30556,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.10381332898456186
+    },
+    "004p1011.jpg": {
+        "hue": 47.3805,
+        "saturation": 37.0266,
+        "brightness": 80.3943,
+        "pixels": 73231,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.24880069036747118
+    },
+    "a34z1107.jpg": {
+        "hue": 288.117,
+        "saturation": 68.216,
+        "brightness": 67.7899,
+        "pixels": 15358,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.052178462709284626
+    },
+    "adf40he.jpg": {
+        "hue": 310.223,
+        "saturation": 34.9062,
+        "brightness": 84.3655,
+        "pixels": 922432,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.703759765625
+    },
+    "adf41he.jpg": {
+        "hue": 299.541,
+        "saturation": 33.4952,
+        "brightness": 86.9158,
+        "pixels": 350264,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.267230224609375
+    },
+    "adi20he.jpg": {
+        "hue": 323.355,
+        "saturation": 65.9939,
+        "brightness": 62.9179,
+        "pixels": 13520,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01031494140625
+    },
+    "adr02he.jpg": {
+        "hue": 316.516,
+        "saturation": 33.3237,
+        "brightness": 78.8767,
+        "pixels": 477214,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.36408538818359376
+    },
+    "adr10he.jpg": {
+        "hue": 320.999,
+        "saturation": 33.0103,
+        "brightness": 85.4841,
+        "pixels": 603726,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.46060638427734374
+    },
+    "adr40he.jpg": {
+        "hue": 317.94,
+        "saturation": 34.6136,
+        "brightness": 86.1086,
+        "pixels": 642847,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.49045333862304685
+    },
+    "adr41he.jpg": {
+        "hue": 315.217,
+        "saturation": 35.5101,
+        "brightness": 87.2382,
+        "pixels": 704131,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5372093200683594
+    },
+    "adr42he.jpg": {
+        "hue": 318.822,
+        "saturation": 32.5719,
+        "brightness": 84.0216,
+        "pixels": 407412,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3108306884765625
+    },
+    "adr45he.jpg": {
+        "hue": 305.332,
+        "saturation": 36.1378,
+        "brightness": 83.3607,
+        "pixels": 528654,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.40333099365234376
+    },
+    "aor04el.jpg": {
+        "hue": 285.242,
+        "saturation": 32.9512,
+        "brightness": 58.8497,
+        "pixels": 471561,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3597724914550781
+    },
+    "aor04he.jpg": {
+        "hue": 335.131,
+        "saturation": 57.8071,
+        "brightness": 84.8936,
+        "pixels": 13478,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01028289794921875
+    },
+    "aor20el.jpg": {
+        "hue": 255.074,
+        "saturation": 39.101,
+        "brightness": 41.249,
+        "pixels": 404389,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.30852432250976564
+    },
+    "aor20he.jpg": {
+        "hue": 312.315,
+        "saturation": 32.4623,
+        "brightness": 78.4265,
+        "pixels": 529911,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.40429000854492186
+    },
+    "app00he.jpg": {
+        "hue": 291.989,
+        "saturation": 30.0225,
+        "brightness": 75.469,
+        "pixels": 261980,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1998748779296875
+    },
+    "app041he.jpg": {
+        "hue": 326.089,
+        "saturation": 33.48,
+        "brightness": 84.0397,
+        "pixels": 371746,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.28361968994140624
+    },
+    "app10he.jpg": {
+        "hue": 261.167,
+        "saturation": 35.3374,
+        "brightness": 62.6525,
+        "pixels": 254872,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.194451904296875
+    },
+    "app11he.jpg": {
+        "hue": 330.832,
+        "saturation": 35.5458,
+        "brightness": 85.3569,
+        "pixels": 747957,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5706459045410156
+    },
+    "arc00he.jpg": {
+        "hue": 303.202,
+        "saturation": 30.1384,
+        "brightness": 85.6285,
+        "pixels": 256160,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1954345703125
+    },
+    "arc04he.jpg": {
+        "hue": 307.695,
+        "saturation": 36.0347,
+        "brightness": 89.5726,
+        "pixels": 246025,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.18770217895507812
+    },
+    "arc20he.jpg": {
+        "hue": 304.515,
+        "saturation": 62.4165,
+        "brightness": 77.2679,
+        "pixels": 39752,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.030328369140625
+    },
+    "arc21he.jpg": {
+        "hue": 289.717,
+        "saturation": 65.4218,
+        "brightness": 87.7864,
+        "pixels": 14623,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.011156463623046875
+    },
+    "arc22he.jpg": {
+        "hue": 301.107,
+        "saturation": 30.8404,
+        "brightness": 92.4639,
+        "pixels": 337247,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25729904174804685
+    },
+    "are10cc.jpg": {
+        "hue": 299.299,
+        "saturation": 31.4547,
+        "brightness": 78.8133,
+        "pixels": 64315,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.049068450927734375
+    },
+    "are10he.jpg": {
+        "hue": 312.559,
+        "saturation": 35.804,
+        "brightness": 87.4348,
+        "pixels": 473818,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.36149444580078127
+    },
+    "are40cc.jpg": {
+        "hue": 294.495,
+        "saturation": 37.0883,
+        "brightness": 80.206,
+        "pixels": 142243,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10852279663085937
+    },
+    "are40he.jpg": {
+        "hue": 313.914,
+        "saturation": 36.7287,
+        "brightness": 88.3155,
+        "pixels": 449916,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3432586669921875
+    },
+    "arec02vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "arec10vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "arec20vg.jpg": {
+        "hue": 246.92,
+        "saturation": 39.1475,
+        "brightness": 56.185,
+        "pixels": 25483,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.019441986083984376
+    },
+    "arec40vg.jpg": {
+        "hue": 250.129,
+        "saturation": 44.702,
+        "brightness": 59.3498,
+        "pixels": 25218,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01923980712890625
+    },
+    "atoc021he.jpg": {
+        "hue": 292.784,
+        "saturation": 60.9251,
+        "brightness": 69.3412,
+        "pixels": 337224,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.257281494140625
+    },
+    "aty04he.jpg": {
+        "hue": 328.467,
+        "saturation": 37.4063,
+        "brightness": 89.6746,
+        "pixels": 481636,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3674591064453125
+    },
+    "aty10el.jpg": {
+        "hue": 339.541,
+        "saturation": 74.6798,
+        "brightness": 72.2844,
+        "pixels": 499464,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.381060791015625
+    },
+    "aty10he.jpg": {
+        "hue": 318.51,
+        "saturation": 33.879,
+        "brightness": 84.621,
+        "pixels": 690769,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5270149230957031
+    },
+    "aty20el.jpg": {
+        "hue": 340.543,
+        "saturation": 79.6115,
+        "brightness": 78.0425,
+        "pixels": 459880,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.350860595703125
+    },
+    "aty40el.jpg": {
+        "hue": 328.138,
+        "saturation": 83.8489,
+        "brightness": 77.0144,
+        "pixels": 721717,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5506263732910156
+    },
+    "b34l0630.jpg": {
+        "hue": 300.802,
+        "saturation": 34.7745,
+        "brightness": 77.0305,
+        "pixels": 9493,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.03225225592520113
+    },
+    "b34l0637.jpg": {
+        "hue": 293.05,
+        "saturation": 53.734,
+        "brightness": 65.8063,
+        "pixels": 6473,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.02199187323331159
+    },
+    "ba102le.jpg": {
+        "hue": 276.887,
+        "saturation": 65.3304,
+        "brightness": 79.9398,
+        "pixels": 15976,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.012188720703125
+    },
+    "ba105le.jpg": {
+        "hue": 297.889,
+        "saturation": 36.8081,
+        "brightness": 85.9076,
+        "pixels": 25495,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.019451141357421875
+    },
+    "badi040he.jpg": {
+        "hue": 309.343,
+        "saturation": 36.3159,
+        "brightness": 88.1789,
+        "pixels": 649682,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.49566802978515623
+    },
+    "badi20tr.jpg": {
+        "hue": 311.021,
+        "saturation": 35.3156,
+        "brightness": 73.3638,
+        "pixels": 327989,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25023574829101564
+    },
+    "badi41tr.jpg": {
+        "hue": 301.799,
+        "saturation": 32.0659,
+        "brightness": 78.3111,
+        "pixels": 390130,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.29764556884765625
+    },
+    "bla02he.jpg": {
+        "hue": 328.868,
+        "saturation": 38.8894,
+        "brightness": 88.1711,
+        "pixels": 536868,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4095977783203125
+    },
+    "bla10he.jpg": {
+        "hue": 338.545,
+        "saturation": 63.1424,
+        "brightness": 87.5549,
+        "pixels": 389440,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.297119140625
+    },
+    "bla40he.jpg": {
+        "hue": 308.659,
+        "saturation": 58.6035,
+        "brightness": 80.3946,
+        "pixels": 38353,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.029261016845703126
+    },
+    "bla42he.jpg": {
+        "hue": 324.689,
+        "saturation": 66.959,
+        "brightness": 76.8559,
+        "pixels": 422729,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32251663208007814
+    },
+    "blo21le.jpg": {
+        "hue": 284.489,
+        "saturation": 54.644,
+        "brightness": 81.5054,
+        "pixels": 1380,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0010528564453125
+    },
+    "bma10he.jpg": {
+        "hue": 302.442,
+        "saturation": 60.4587,
+        "brightness": 65.6751,
+        "pixels": 297534,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22700042724609376
+    },
+    "bma44he.jpg": {
+        "hue": 289.323,
+        "saturation": 64.5926,
+        "brightness": 69.5445,
+        "pixels": 243766,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.18597869873046874
+    },
+    "bma45he.jpg": {
+        "hue": 293.853,
+        "saturation": 61.5743,
+        "brightness": 65.0228,
+        "pixels": 329258,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25120391845703127
+    },
+    "bon02he.jpg": {
+        "hue": 314.747,
+        "saturation": 53.6574,
+        "brightness": 75.0949,
+        "pixels": 101069,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07710952758789062
+    },
+    "bon10gr.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "bon21gr.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "bon21he.jpg": {
+        "hue": 308.03,
+        "saturation": 60.3558,
+        "brightness": 84.0561,
+        "pixels": 110817,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.08454666137695313
+    },
+    "cam20he.jpg": {
+        "hue": 279.319,
+        "saturation": 58.046,
+        "brightness": 78.9001,
+        "pixels": 18927,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.014440155029296875
+    },
+    "cam20wp.jpg": {
+        "hue": 327.64,
+        "saturation": 30.7694,
+        "brightness": 70.2886,
+        "pixels": 290663,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22175827026367187
+    },
+    "cam21ih.jpg": {
+        "hue": 240.774,
+        "saturation": 36.4606,
+        "brightness": 67.9379,
+        "pixels": 698331,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5327842712402344
+    },
+    "cam21wp.jpg": {
+        "hue": 260.989,
+        "saturation": 62.5655,
+        "brightness": 62.4149,
+        "pixels": 9834,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00750274658203125
+    },
+    "cam40he.jpg": {
+        "hue": 317.501,
+        "saturation": 30.6691,
+        "brightness": 93.6431,
+        "pixels": 619841,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4729011535644531
+    },
+    "cam40wp.jpg": {
+        "hue": 339.745,
+        "saturation": 31.0566,
+        "brightness": 80.9819,
+        "pixels": 534475,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4077720642089844
+    },
+    "cam41ab.jpg": {
+        "hue": 202.55,
+        "saturation": 33.6426,
+        "brightness": 80.6508,
+        "pixels": 318718,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24316253662109374
+    },
+    "cam41he.jpg": {
+        "hue": 316.362,
+        "saturation": 30.2365,
+        "brightness": 93.6291,
+        "pixels": 634713,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.48424758911132815
+    },
+    "cam41ih.jpg": {
+        "hue": 234.561,
+        "saturation": 55.1807,
+        "brightness": 56.6768,
+        "pixels": 506271,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.38625411987304686
+    },
+    "cam41wp.jpg": {
+        "hue": 131.786,
+        "saturation": 55.2673,
+        "brightness": 64.4751,
+        "pixels": 643,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.000490570068359375
+    },
+    "cam42ih.jpg": {
+        "hue": 241.609,
+        "saturation": 35.0693,
+        "brightness": 60.5228,
+        "pixels": 577443,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4405540466308594
+    },
+    "cam43wp.jpg": {
+        "hue": 222.976,
+        "saturation": 43.2748,
+        "brightness": 44.3844,
+        "pixels": 12031,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.009178924560546874
+    },
+    "cil04vg.jpg": {
+        "hue": 334.456,
+        "saturation": 62.4567,
+        "brightness": 55.7946,
+        "pixels": 193177,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14738235473632813
+    },
+    "clu01he.jpg": {
+        "hue": 315.638,
+        "saturation": 32.9351,
+        "brightness": 79.8403,
+        "pixels": 218482,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.16668853759765626
+    },
+    "clu10he.jpg": {
+        "hue": 312.348,
+        "saturation": 31.7744,
+        "brightness": 86.9362,
+        "pixels": 695038,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5302719116210938
+    },
+    "clu40he.jpg": {
+        "hue": 295.207,
+        "saturation": 34.469,
+        "brightness": 88.6363,
+        "pixels": 574007,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.43793258666992185
+    },
+    "clu42he.jpg": {
+        "hue": 312.53,
+        "saturation": 34.245,
+        "brightness": 88.2973,
+        "pixels": 684408,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.522161865234375
+    },
+    "col00he.jpg": {
+        "hue": 335.33,
+        "saturation": 58.0204,
+        "brightness": 78.0718,
+        "pixels": 122751,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09365158081054688
+    },
+    "col02he.jpg": {
+        "hue": 302.012,
+        "saturation": 56.6786,
+        "brightness": 62.8445,
+        "pixels": 57536,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.043896484375
+    },
+    "col10he.jpg": {
+        "hue": 321.887,
+        "saturation": 36.8772,
+        "brightness": 85.9866,
+        "pixels": 375233,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.28628005981445315
+    },
+    "col20he.jpg": {
+        "hue": 317.722,
+        "saturation": 31.7922,
+        "brightness": 88.3256,
+        "pixels": 477700,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3644561767578125
+    },
+    "col40he.jpg": {
+        "hue": 317.699,
+        "saturation": 31.6476,
+        "brightness": 87.3955,
+        "pixels": 658369,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5022956848144531
+    },
+    "col41he.jpg": {
+        "hue": 311.579,
+        "saturation": 60.6309,
+        "brightness": 85.5718,
+        "pixels": 700736,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.534619140625
+    },
+    "col43he.jpg": {
+        "hue": 314.763,
+        "saturation": 36.9244,
+        "brightness": 82.9516,
+        "pixels": 353063,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2693656921386719
+    },
+    "combone010tps.jpg": {
+        "hue": 29.9733,
+        "saturation": 38.5943,
+        "brightness": 63.852,
+        "pixels": 566592,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.432275390625
+    },
+    "combone011tps.jpg": {
+        "hue": 28.6744,
+        "saturation": 41.4731,
+        "brightness": 56.9861,
+        "pixels": 699317,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5335365295410156
+    },
+    "combone020tps.jpg": {
+        "hue": 18.1637,
+        "saturation": 36.4645,
+        "brightness": 58.372,
+        "pixels": 417244,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3183319091796875
+    },
+    "combone041tps.jpg": {
+        "hue": 35.0862,
+        "saturation": 37.9524,
+        "brightness": 57.2268,
+        "pixels": 512351,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.39089279174804686
+    },
+    "con20vg.jpg": {
+        "hue": 310.846,
+        "saturation": 32.467,
+        "brightness": 73.7675,
+        "pixels": 337195,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2572593688964844
+    },
+    "cor10vg.jpg": {
+        "hue": 310.916,
+        "saturation": 65.1352,
+        "brightness": 62.5377,
+        "pixels": 24930,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01902008056640625
+    },
+    "cor20he.jpg": {
+        "hue": 311.233,
+        "saturation": 40.3987,
+        "brightness": 89.2121,
+        "pixels": 608809,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.46448440551757814
+    },
+    "cor40vg.jpg": {
+        "hue": 338.914,
+        "saturation": 70.2088,
+        "brightness": 71.6343,
+        "pixels": 80591,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.06148605346679688
+    },
+    "ctx10gi.jpg": {
+        "hue": 244.51,
+        "saturation": 35.8308,
+        "brightness": 85.3559,
+        "pixels": 327494,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24985809326171876
+    },
+    "ctx20bc.jpg": {
+        "hue": 32.9985,
+        "saturation": 54.6228,
+        "brightness": 60.3424,
+        "pixels": 25764,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0196563720703125
+    },
+    "ctx21bc.jpg": {
+        "hue": 35.9822,
+        "saturation": 32.6719,
+        "brightness": 91.108,
+        "pixels": 471347,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.35960922241210935
+    },
+    "ctx40gi.jpg": {
+        "hue": 242.683,
+        "saturation": 36.4384,
+        "brightness": 87.2201,
+        "pixels": 238752,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1821533203125
+    },
+    "ctx42gi.jpg": {
+        "hue": 237.678,
+        "saturation": 61.115,
+        "brightness": 81.5304,
+        "pixels": 379523,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2895530700683594
+    },
+    "ctxm41go.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "ctxm44go.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "drg02hm.jpg": {
+        "hue": 232.883,
+        "saturation": 58.4007,
+        "brightness": 65.0747,
+        "pixels": 127604,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0973541259765625
+    },
+    "drg100hm.jpg": {
+        "hue": 278.837,
+        "saturation": 39.2353,
+        "brightness": 84.3868,
+        "pixels": 334331,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25507431030273436
+    },
+    "drg10hm.jpg": {
+        "hue": 252.577,
+        "saturation": 61.9224,
+        "brightness": 66.6544,
+        "pixels": 410070,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.31285858154296875
+    },
+    "drg40hm.jpg": {
+        "hue": 265.131,
+        "saturation": 62.7407,
+        "brightness": 67.6224,
+        "pixels": 433791,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.33095626831054686
+    },
+    "duo021he.jpg": {
+        "hue": 325.416,
+        "saturation": 65.608,
+        "brightness": 61.0047,
+        "pixels": 3740,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0028533935546875
+    },
+    "duo20vg.jpg": {
+        "hue": 194.051,
+        "saturation": 57.5577,
+        "brightness": 72.0504,
+        "pixels": 39057,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.029798126220703124
+    },
+    "duo40he.jpg": {
+        "hue": 310.634,
+        "saturation": 33.6919,
+        "brightness": 84.7189,
+        "pixels": 351517,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2681861877441406
+    },
+    "ear04he.jpg": {
+        "hue": 318.272,
+        "saturation": 33.8114,
+        "brightness": 82.6178,
+        "pixels": 367670,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.28050994873046875
+    },
+    "ear10he.jpg": {
+        "hue": 315.099,
+        "saturation": 46.4541,
+        "brightness": 55.7954,
+        "pixels": 258905,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19752883911132812
+    },
+    "ear20he.jpg": {
+        "hue": 325.953,
+        "saturation": 34.5879,
+        "brightness": 84.218,
+        "pixels": 197177,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.15043411254882813
+    },
+    "ear41he.jpg": {
+        "hue": 313.507,
+        "saturation": 37.0325,
+        "brightness": 85.6105,
+        "pixels": 350585,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2674751281738281
+    },
+    "eh14853.jpg": {
+        "hue": 248.488,
+        "saturation": 41.8332,
+        "brightness": 99.0592,
+        "pixels": 214758,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.7296355185909981
+    },
+    "eh41892.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "eh49977.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "eh57239.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "eh6094.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "eh61179.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "eh6738.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "elasticlig010.jpg": {
+        "hue": 326.122,
+        "saturation": 55.7759,
+        "brightness": 86.4829,
+        "pixels": 729984,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.55693359375
+    },
+    "elasticlig040.jpg": {
+        "hue": 329.824,
+        "saturation": 54.6103,
+        "brightness": 86.885,
+        "pixels": 689711,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5262077331542969
+    },
+    "elc02el.jpg": {
+        "hue": 197.406,
+        "saturation": 77.0447,
+        "brightness": 68.7173,
+        "pixels": 187225,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14284133911132812
+    },
+    "elc21el.jpg": {
+        "hue": 191.672,
+        "saturation": 87.7294,
+        "brightness": 81.1867,
+        "pixels": 554806,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.42328338623046874
+    },
+    "elc40el.jpg": {
+        "hue": 206.614,
+        "saturation": 66.0354,
+        "brightness": 63.1871,
+        "pixels": 438008,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.334173583984375
+    },
+    "em01hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em02hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em03hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em04hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em05hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em06hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em07hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em08hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em09hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em10hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em11hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em14hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em15hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "em18hmm.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "emnk001.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "emnk002.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "emnk003.jpg": {
+        "hue": 94.7968,
+        "saturation": 45.5064,
+        "brightness": 39.1205,
+        "pixels": 2877,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.009774543378995434
+    },
+    "emnk004.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "enos02he.jpg": {
+        "hue": 285.524,
+        "saturation": 49.6966,
+        "brightness": 60.8157,
+        "pixels": 50812,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0387664794921875
+    },
+    "enos04he.jpg": {
+        "hue": 276.244,
+        "saturation": 56.5535,
+        "brightness": 63.5788,
+        "pixels": 145732,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1111846923828125
+    },
+    "enos10he.jpg": {
+        "hue": 293.868,
+        "saturation": 58.0631,
+        "brightness": 63.592,
+        "pixels": 190407,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14526901245117188
+    },
+    "eo106le.jpg": {
+        "hue": 278.849,
+        "saturation": 34.9628,
+        "brightness": 85.4153,
+        "pixels": 20367,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.015538787841796875
+    },
+    "eo108le.jpg": {
+        "hue": 290.53,
+        "saturation": 84.2593,
+        "brightness": 77.9684,
+        "pixels": 40662,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03102264404296875
+    },
+    "epen40he.jpg": {
+        "hue": 295.577,
+        "saturation": 33.4968,
+        "brightness": 84.1294,
+        "pixels": 287845,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21960830688476562
+    },
+    "epi04he.jpg": {
+        "hue": 294.075,
+        "saturation": 33.1986,
+        "brightness": 65.6967,
+        "pixels": 257886,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19675140380859374
+    },
+    "epi04vg.jpg": {
+        "hue": 340.182,
+        "saturation": 51.3422,
+        "brightness": 77.4162,
+        "pixels": 86674,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.06612701416015625
+    },
+    "epi10he.jpg": {
+        "hue": 288.902,
+        "saturation": 30.4294,
+        "brightness": 73.8671,
+        "pixels": 366828,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2798675537109375
+    },
+    "epi20he.jpg": {
+        "hue": 297.631,
+        "saturation": 33.5158,
+        "brightness": 76.5244,
+        "pixels": 426005,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3250160217285156
+    },
+    "epi20vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "epi21vg.jpg": {
+        "hue": 334.72,
+        "saturation": 48.2683,
+        "brightness": 68.5948,
+        "pixels": 194957,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14874038696289063
+    },
+    "epi40he.jpg": {
+        "hue": 304.879,
+        "saturation": 34.6308,
+        "brightness": 81.2007,
+        "pixels": 403285,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3076820373535156
+    },
+    "epi40vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "epl04he.jpg": {
+        "hue": 302.106,
+        "saturation": 33.1834,
+        "brightness": 86.922,
+        "pixels": 315867,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24098739624023438
+    },
+    "epl20he.jpg": {
+        "hue": 295.299,
+        "saturation": 32.6496,
+        "brightness": 84.6763,
+        "pixels": 283074,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21596832275390626
+    },
+    "epl40he.jpg": {
+        "hue": 258.655,
+        "saturation": 42.0291,
+        "brightness": 71.7613,
+        "pixels": 465594,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.35522003173828126
+    },
+    "eyef04he.jpg": {
+        "hue": 299.291,
+        "saturation": 63.2746,
+        "brightness": 78.2182,
+        "pixels": 253588,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1934722900390625
+    },
+    "fbl104le.jpg": {
+        "hue": 264.55,
+        "saturation": 68.2416,
+        "brightness": 73.6074,
+        "pixels": 81853,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.062448883056640626
+    },
+    "fbl106le.jpg": {
+        "hue": 264.544,
+        "saturation": 59.5935,
+        "brightness": 77.012,
+        "pixels": 76241,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05816726684570313
+    },
+    "fbl20le.jpg": {
+        "hue": 260.968,
+        "saturation": 42.5639,
+        "brightness": 77.1211,
+        "pixels": 77601,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05920486450195313
+    },
+    "fic21he.jpg": {
+        "hue": 294.429,
+        "saturation": 31.1414,
+        "brightness": 83.8533,
+        "pixels": 495038,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.37768402099609377
+    },
+    "fic40he.jpg": {
+        "hue": 307.15,
+        "saturation": 37.1284,
+        "brightness": 86.0617,
+        "pixels": 887282,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6769424438476562
+    },
+    "fopa04ht.jpg": {
+        "hue": 75.0327,
+        "saturation": 40.6743,
+        "brightness": 61.8585,
+        "pixels": 202391,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.15441207885742186
+    },
+    "foto_16.jpg": {
+        "hue": 208.078,
+        "saturation": 37.5225,
+        "brightness": 81.5602,
+        "pixels": 86730,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.2946632420091324
+    },
+    "gall04he.jpg": {
+        "hue": 319.001,
+        "saturation": 59.069,
+        "brightness": 77.6576,
+        "pixels": 13332,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0101715087890625
+    },
+    "gall40he.jpg": {
+        "hue": 288.128,
+        "saturation": 63.6013,
+        "brightness": 74.0391,
+        "pixels": 29908,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0228179931640625
+    },
+    "gan11he.jpg": {
+        "hue": 303.151,
+        "saturation": 55.4544,
+        "brightness": 50.854,
+        "pixels": 48399,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03692550659179687
+    },
+    "gan41he.jpg": {
+        "hue": 302.147,
+        "saturation": 37.0,
+        "brightness": 64.1989,
+        "pixels": 196287,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14975509643554688
+    },
+    "h01l2800.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h02h1202.jpg": {
+        "hue": 282.139,
+        "saturation": 33.1262,
+        "brightness": 82.9006,
+        "pixels": 60790,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.20653267014568386
+    },
+    "h02z0510.jpg": {
+        "hue": 323.867,
+        "saturation": 51.944,
+        "brightness": 63.9965,
+        "pixels": 6341,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.02154340617525549
+    },
+    "h03z0117.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h04s1111.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h05l5226.jpg": {
+        "hue": 289.627,
+        "saturation": 34.8101,
+        "brightness": 81.6262,
+        "pixels": 71068,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.24145194607523374
+    },
+    "h05z0612.jpg": {
+        "hue": 282.003,
+        "saturation": 52.8745,
+        "brightness": 59.9797,
+        "pixels": 7077,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.0240439497716895
+    },
+    "h06l3917.jpg": {
+        "hue": 23.2671,
+        "saturation": 36.2969,
+        "brightness": 63.526,
+        "pixels": 50331,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.17099845075016307
+    },
+    "h06s0130.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h06s1122.jpg": {
+        "hue": 224.174,
+        "saturation": 48.7098,
+        "brightness": 42.0805,
+        "pixels": 23571,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.08008194716242661
+    },
+    "h07s0324.jpg": {
+        "hue": 354.707,
+        "saturation": 35.4322,
+        "brightness": 91.4867,
+        "pixels": 115885,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.393716704718417
+    },
+    "h08s1125.jpg": {
+        "hue": 127.661,
+        "saturation": 32.7393,
+        "brightness": 40.6086,
+        "pixels": 52108,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1770357686453577
+    },
+    "h09s0233.jpg": {
+        "hue": 21.2683,
+        "saturation": 69.5459,
+        "brightness": 67.6633,
+        "pixels": 76304,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.2592411393781257
+    },
+    "h09z1101.jpg": {
+        "hue": 31.8453,
+        "saturation": 37.1582,
+        "brightness": 68.3457,
+        "pixels": 86788,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.2948602957164601
+    },
+    "h11l0505.jpg": {
+        "hue": 239.537,
+        "saturation": 40.8543,
+        "brightness": 98.0694,
+        "pixels": 104246,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.35417346162209173
+    },
+    "h11l0511.jpg": {
+        "hue": 240.193,
+        "saturation": 39.1619,
+        "brightness": 97.9216,
+        "pixels": 167348,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5685611002391824
+    },
+    "h12l1704.jpg": {
+        "hue": 264.786,
+        "saturation": 31.8072,
+        "brightness": 82.5306,
+        "pixels": 51709,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.17568017503805175
+    },
+    "h13s1132.jpg": {
+        "hue": 352.279,
+        "saturation": 37.8786,
+        "brightness": 81.0178,
+        "pixels": 35758,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.12148700804522722
+    },
+    "h14s11e.jpg": {
+        "hue": 290.9,
+        "saturation": 32.1782,
+        "brightness": 83.0603,
+        "pixels": 69738,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.23693330071754728
+    },
+    "h16d2002.jpg": {
+        "hue": 343.682,
+        "saturation": 33.0776,
+        "brightness": 76.2744,
+        "pixels": 103360,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3511632963687758
+    },
+    "h16l8909.jpg": {
+        "hue": 332.586,
+        "saturation": 36.3755,
+        "brightness": 88.9593,
+        "pixels": 138340,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4700070667536421
+    },
+    "h17s0625.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h18s070.jpg": {
+        "hue": 53.8707,
+        "saturation": 34.6372,
+        "brightness": 85.9203,
+        "pixels": 80082,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.27207681017612523
+    },
+    "h20s0730.jpg": {
+        "hue": 99.5087,
+        "saturation": 53.3083,
+        "brightness": 75.4266,
+        "pixels": 10555,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.035860377255925203
+    },
+    "h21s0811.jpg": {
+        "hue": 273.293,
+        "saturation": 45.4654,
+        "brightness": 54.7563,
+        "pixels": 635,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.0021573983474668405
+    },
+    "h22l260e.jpg": {
+        "hue": 17.7185,
+        "saturation": 54.6077,
+        "brightness": 88.2037,
+        "pixels": 168349,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5719619754294412
+    },
+    "h23h0101.jpg": {
+        "hue": 237.671,
+        "saturation": 91.2956,
+        "brightness": 36.9441,
+        "pixels": 77230,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.26238720373994345
+    },
+    "h23h0801.jpg": {
+        "hue": 224.254,
+        "saturation": 62.1572,
+        "brightness": 65.768,
+        "pixels": 59259,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.2013311317677756
+    },
+    "h24h0803.jpg": {
+        "hue": 210.679,
+        "saturation": 36.2597,
+        "brightness": 86.9183,
+        "pixels": 118571,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4028423298543162
+    },
+    "h25s0905.jpg": {
+        "hue": 253.481,
+        "saturation": 52.1353,
+        "brightness": 52.1606,
+        "pixels": 16140,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.05483529028049576
+    },
+    "h26l8926.jpg": {
+        "hue": 151.905,
+        "saturation": 41.8737,
+        "brightness": 52.8922,
+        "pixels": 12309,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.041819553163731246
+    },
+    "h26s0917.jpg": {
+        "hue": 221.861,
+        "saturation": 44.113,
+        "brightness": 59.9777,
+        "pixels": 36004,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1223227875625136
+    },
+    "h28s1236.jpg": {
+        "hue": 233.937,
+        "saturation": 56.2731,
+        "brightness": 61.8824,
+        "pixels": 2963,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.010066726462274408
+    },
+    "h29d1001.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 632,
+        "height": 504,
+        "coverage": 0
+    },
+    "h30d1001.jpg": {
+        "hue": 233.998,
+        "saturation": 40.4912,
+        "brightness": 43.3269,
+        "pixels": 62953,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.21388141443792127
+    },
+    "h31d2001.jpg": {
+        "hue": 211.82,
+        "saturation": 36.2956,
+        "brightness": 89.8982,
+        "pixels": 88652,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.30119319417264623
+    },
+    "h32p1007.jpg": {
+        "hue": 102.809,
+        "saturation": 37.065,
+        "brightness": 43.4412,
+        "pixels": 14891,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.05059184061752555
+    },
+    "h33d1001.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h34l0614.jpg": {
+        "hue": 287.901,
+        "saturation": 31.9514,
+        "brightness": 85.4683,
+        "pixels": 10298,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.03498722548380083
+    },
+    "h34l0632.jpg": {
+        "hue": 277.749,
+        "saturation": 86.6113,
+        "brightness": 61.8662,
+        "pixels": 19225,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.0653165090237008
+    },
+    "h34l1023.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h34nk001.jpg": {
+        "hue": 208.701,
+        "saturation": 41.1235,
+        "brightness": 44.4981,
+        "pixels": 4289,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.014571781909110676
+    },
+    "h34nk003.jpg": {
+        "hue": 303.311,
+        "saturation": 33.0964,
+        "brightness": 80.7946,
+        "pixels": 15689,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.053303027832137424
+    },
+    "h35l3905.jpg": {
+        "hue": 274.141,
+        "saturation": 44.9232,
+        "brightness": 53.0212,
+        "pixels": 5131,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.01743245814307458
+    },
+    "h36z0811.jpg": {
+        "hue": 281.524,
+        "saturation": 59.3161,
+        "brightness": 76.0095,
+        "pixels": 6551,
+        "width": 600,
+        "height": 504,
+        "coverage": 0.021663359788359787
+    },
+    "h37z0818.jpg": {
+        "hue": 4.3333,
+        "saturation": 38.9665,
+        "brightness": 83.7653,
+        "pixels": 113568,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3858447488584475
+    },
+    "h38z0823.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h39z0919.jpg": {
+        "hue": 158.096,
+        "saturation": 30.5732,
+        "brightness": 52.595,
+        "pixels": 13697,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.046535252228745376
+    },
+    "h40l5202.jpg": {
+        "hue": 296.018,
+        "saturation": 55.5966,
+        "brightness": 56.9626,
+        "pixels": 6911,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.023479968471406827
+    },
+    "h40l5212.jpg": {
+        "hue": 278.821,
+        "saturation": 54.1886,
+        "brightness": 61.874,
+        "pixels": 7753,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.026340644705370734
+    },
+    "h41l5120.jpg": {
+        "hue": 31.3311,
+        "saturation": 68.6402,
+        "brightness": 74.6932,
+        "pixels": 158270,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.537718797564688
+    },
+    "h41l5122.jpg": {
+        "hue": 35.8957,
+        "saturation": 74.1937,
+        "brightness": 76.7289,
+        "pixels": 109903,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.37339299304196566
+    },
+    "h42d1001.jpg": {
+        "hue": 341.033,
+        "saturation": 55.2194,
+        "brightness": 72.4048,
+        "pixels": 14769,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.050177348336594915
+    },
+    "h42l0905.jpg": {
+        "hue": 347.192,
+        "saturation": 30.9351,
+        "brightness": 93.0024,
+        "pixels": 57307,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1946992552728854
+    },
+    "h43d1002.jpg": {
+        "hue": 308.301,
+        "saturation": 45.3225,
+        "brightness": 59.2123,
+        "pixels": 6894,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.023422211350293543
+    },
+    "h44d1002.jpg": {
+        "hue": 331.486,
+        "saturation": 39.1909,
+        "brightness": 82.1816,
+        "pixels": 149925,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5093668460534899
+    },
+    "h45d1002.jpg": {
+        "hue": 350.871,
+        "saturation": 31.272,
+        "brightness": 78.1352,
+        "pixels": 90255,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3066393509458578
+    },
+    "h45h0105.jpg": {
+        "hue": 5.56954,
+        "saturation": 33.6345,
+        "brightness": 98.0469,
+        "pixels": 136095,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.46237972928897586
+    },
+    "h46l5705.jpg": {
+        "hue": 194.203,
+        "saturation": 43.5744,
+        "brightness": 68.7334,
+        "pixels": 22278,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.07568900848010437
+    },
+    "h53d1002.jpg": {
+        "hue": 20.0886,
+        "saturation": 41.5602,
+        "brightness": 86.6007,
+        "pixels": 102998,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3499334094368341
+    },
+    "h54l4028.jpg": {
+        "hue": 322.543,
+        "saturation": 59.2509,
+        "brightness": 69.3157,
+        "pixels": 54033,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.18357591324200914
+    },
+    "h55d1001.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h56d1002.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h57l7026.jpg": {
+        "hue": 205.493,
+        "saturation": 33.0883,
+        "brightness": 65.9312,
+        "pixels": 58634,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.19920770819743422
+    },
+    "h58l8522.jpg": {
+        "hue": 307.534,
+        "saturation": 33.5719,
+        "brightness": 89.0268,
+        "pixels": 119446,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4058151228527941
+    },
+    "h59l7223.jpg": {
+        "hue": 200.266,
+        "saturation": 37.2906,
+        "brightness": 64.9111,
+        "pixels": 45045,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.15303938356164384
+    },
+    "h60l8529.jpg": {
+        "hue": 279.079,
+        "saturation": 33.9176,
+        "brightness": 70.108,
+        "pixels": 34906,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.11859235703413785
+    },
+    "h61l7322.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h62l8601.jpg": {
+        "hue": 287.397,
+        "saturation": 31.5076,
+        "brightness": 82.328,
+        "pixels": 81461,
+        "width": 583,
+        "height": 504,
+        "coverage": 0.2772366522366522
+    },
+    "h63l8610.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h64z1902.jpg": {
+        "hue": 30.1321,
+        "saturation": 63.462,
+        "brightness": 83.5039,
+        "pixels": 98139,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.33342506523157206
+    },
+    "h65l8621.jpg": {
+        "hue": 293.102,
+        "saturation": 30.9914,
+        "brightness": 82.8645,
+        "pixels": 56986,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1936086649271581
+    },
+    "h66l8704.jpg": {
+        "hue": 281.661,
+        "saturation": 35.8475,
+        "brightness": 87.3311,
+        "pixels": 159320,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5412861491628614
+    },
+    "h67l7919.jpg": {
+        "hue": 70.2017,
+        "saturation": 30.6625,
+        "brightness": 60.801,
+        "pixels": 162245,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5512237714720591
+    },
+    "h68l7934.jpg": {
+        "hue": 48.3154,
+        "saturation": 44.8975,
+        "brightness": 79.0432,
+        "pixels": 134549,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4571272287453794
+    },
+    "h69z2110.jpg": {
+        "hue": 74.0357,
+        "saturation": 35.4905,
+        "brightness": 61.4572,
+        "pixels": 82696,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.280957816916721
+    },
+    "h70l8022.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h72l1315.jpg": {
+        "hue": 175.755,
+        "saturation": 47.2072,
+        "brightness": 56.2825,
+        "pixels": 23018,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.07820314198738856
+    },
+    "h72z2213.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h73d1001.jpg": {
+        "hue": 318.93,
+        "saturation": 30.1521,
+        "brightness": 67.8605,
+        "pixels": 62059,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.21084406936290498
+    },
+    "h74d1002.jpg": {
+        "hue": 294.629,
+        "saturation": 32.6649,
+        "brightness": 46.0504,
+        "pixels": 586,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.0019909219395520764
+    },
+    "h75l9103.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h75z0623.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h76l8103.jpg": {
+        "hue": 305.577,
+        "saturation": 34.9355,
+        "brightness": 68.4988,
+        "pixels": 57822,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1964489562948467
+    },
+    "h77l9117.jpg": {
+        "hue": 214.766,
+        "saturation": 34.0191,
+        "brightness": 83.0545,
+        "pixels": 117012,
+        "width": 584,
+        "height": 501,
+        "coverage": 0.39992617504716593
+    },
+    "h78l8129.jpg": {
+        "hue": 217.238,
+        "saturation": 55.4442,
+        "brightness": 62.8835,
+        "pixels": 35810,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.12166367688627963
+    },
+    "h79l8311.jpg": {
+        "hue": 285.067,
+        "saturation": 33.6573,
+        "brightness": 63.9897,
+        "pixels": 3164,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.010749619482496194
+    },
+    "h80l9212.jpg": {
+        "hue": 313.817,
+        "saturation": 30.0284,
+        "brightness": 68.6484,
+        "pixels": 24226,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.08230729506414437
+    },
+    "h81l8331.jpg": {
+        "hue": 277.762,
+        "saturation": 41.7462,
+        "brightness": 46.6969,
+        "pixels": 15324,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.05206294846705806
+    },
+    "h81z2802.jpg": {
+        "hue": 299.233,
+        "saturation": 34.9125,
+        "brightness": 64.7897,
+        "pixels": 101610,
+        "width": 584,
+        "height": 501,
+        "coverage": 0.3472848822902141
+    },
+    "h82l8715.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h83l7824.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h84l8404.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 585,
+        "height": 504,
+        "coverage": 0
+    },
+    "h85l8421.jpg": {
+        "hue": 317.746,
+        "saturation": 35.9294,
+        "brightness": 48.0392,
+        "pixels": 318,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.0010803979125896934
+    },
+    "h86l8501.jpg": {
+        "hue": 294.087,
+        "saturation": 39.5441,
+        "brightness": 46.6826,
+        "pixels": 10889,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.03699513481191563
+    },
+    "h87h3301.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h88h3304.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h89h3307.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h90l6912.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h91l7004.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h92l9307.jpg": {
+        "hue": 195.967,
+        "saturation": 48.1675,
+        "brightness": 54.1765,
+        "pixels": 560,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.001902587519025875
+    },
+    "h93l9323.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h94l9402.jpg": {
+        "hue": 198.255,
+        "saturation": 55.3427,
+        "brightness": 59.7218,
+        "pixels": 7693,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.02613679604261796
+    },
+    "h95l9420.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h96l9426.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "h97l9434.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn001.jpg": {
+        "hue": 284.628,
+        "saturation": 71.9816,
+        "brightness": 50.1562,
+        "pixels": 9782,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.033234126984126984
+    },
+    "hn002.jpg": {
+        "hue": 287.446,
+        "saturation": 70.3512,
+        "brightness": 47.8924,
+        "pixels": 4103,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.013939851054577082
+    },
+    "hn008.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn011d.jpg": {
+        "hue": 285.186,
+        "saturation": 39.7916,
+        "brightness": 59.2605,
+        "pixels": 71129,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.24165919221569906
+    },
+    "hn015.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn019.jpg": {
+        "hue": 19.5137,
+        "saturation": 40.1793,
+        "brightness": 82.2057,
+        "pixels": 123450,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4194186236138291
+    },
+    "hn021.jpg": {
+        "hue": 341.075,
+        "saturation": 38.2163,
+        "brightness": 88.6335,
+        "pixels": 85671,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.291065313111546
+    },
+    "hn022b.jpg": {
+        "hue": 215.609,
+        "saturation": 71.5162,
+        "brightness": 61.4584,
+        "pixels": 35995,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.12229221026310068
+    },
+    "hn023d.jpg": {
+        "hue": 336.485,
+        "saturation": 35.9981,
+        "brightness": 79.8494,
+        "pixels": 57930,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1968158838878017
+    },
+    "hn026.jpg": {
+        "hue": 258.118,
+        "saturation": 31.2812,
+        "brightness": 80.5916,
+        "pixels": 106666,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3623953576864536
+    },
+    "hn029a.jpg": {
+        "hue": 19.2606,
+        "saturation": 35.8722,
+        "brightness": 74.1173,
+        "pixels": 65100,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.221175799086758
+    },
+    "hn030.jpg": {
+        "hue": 309.156,
+        "saturation": 66.051,
+        "brightness": 62.7817,
+        "pixels": 24125,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.08196414981517722
+    },
+    "hn031.jpg": {
+        "hue": 230.492,
+        "saturation": 75.8325,
+        "brightness": 32.9849,
+        "pixels": 2373,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.008062214611872147
+    },
+    "hn033d.jpg": {
+        "hue": 284.413,
+        "saturation": 33.4348,
+        "brightness": 60.6965,
+        "pixels": 97437,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.33104003587736464
+    },
+    "hn037d.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn041d.jpg": {
+        "hue": 319.288,
+        "saturation": 35.5212,
+        "brightness": 63.114,
+        "pixels": 142777,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.4850816753642096
+    },
+    "hn047.jpg": {
+        "hue": 226.953,
+        "saturation": 33.8535,
+        "brightness": 65.6958,
+        "pixels": 89245,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3032078984561861
+    },
+    "hn048.jpg": {
+        "hue": 241.502,
+        "saturation": 39.4991,
+        "brightness": 79.3067,
+        "pixels": 92655,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3147932974559687
+    },
+    "hn052a.jpg": {
+        "hue": 21.1133,
+        "saturation": 58.9245,
+        "brightness": 50.3911,
+        "pixels": 45792,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.15557729941291584
+    },
+    "hn053.jpg": {
+        "hue": 334.395,
+        "saturation": 55.2897,
+        "brightness": 55.4371,
+        "pixels": 12627,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.04289995107632094
+    },
+    "hn055.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn057.jpg": {
+        "hue": 338.239,
+        "saturation": 39.7999,
+        "brightness": 47.6763,
+        "pixels": 3099,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.010528783431180692
+    },
+    "hn059.jpg": {
+        "hue": 309.775,
+        "saturation": 62.2068,
+        "brightness": 43.299,
+        "pixels": 94587,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.32135722439660797
+    },
+    "hn064md.jpg": {
+        "hue": 294.578,
+        "saturation": 34.8069,
+        "brightness": 48.2745,
+        "pixels": 1838,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.006244564035659926
+    },
+    "hn064rd.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn071.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "hn073.jpg": {
+        "hue": 27.8837,
+        "saturation": 66.6706,
+        "brightness": 63.8355,
+        "pixels": 55491,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1885294357469015
+    },
+    "hn079.jpg": {
+        "hue": 225.76,
+        "saturation": 37.0741,
+        "brightness": 59.9219,
+        "pixels": 94553,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3212417101543814
+    },
+    "hn079c.jpg": {
+        "hue": 222.673,
+        "saturation": 33.6254,
+        "brightness": 72.6925,
+        "pixels": 5487,
+        "width": 581,
+        "height": 504,
+        "coverage": 0.0187382181788378
+    },
+    "hya10po.jpg": {
+        "hue": 55.5061,
+        "saturation": 54.3718,
+        "brightness": 77.0638,
+        "pixels": 13774,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01050872802734375
+    },
+    "hya40po.jpg": {
+        "hue": 53.0951,
+        "saturation": 60.2338,
+        "brightness": 80.2844,
+        "pixels": 78610,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05997467041015625
+    },
+    "hya42he.jpg": {
+        "hue": 294.613,
+        "saturation": 38.2971,
+        "brightness": 82.5533,
+        "pixels": 560024,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.427264404296875
+    },
+    "hya44po.jpg": {
+        "hue": 48.177,
+        "saturation": 60.3464,
+        "brightness": 84.0713,
+        "pixels": 101517,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07745132446289063
+    },
+    "hyc20he.jpg": {
+        "hue": 301.722,
+        "saturation": 38.3178,
+        "brightness": 81.8242,
+        "pixels": 711631,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5429313659667969
+    },
+    "hyc40he.jpg": {
+        "hue": 264.339,
+        "saturation": 32.5255,
+        "brightness": 60.2417,
+        "pixels": 306763,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23404159545898437
+    },
+    "hyn40pp.jpg": {
+        "hue": 216.09,
+        "saturation": 51.5572,
+        "brightness": 66.7846,
+        "pixels": 58353,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.044519805908203126
+    },
+    "ico11vg.jpg": {
+        "hue": 178.076,
+        "saturation": 62.0699,
+        "brightness": 79.3082,
+        "pixels": 164126,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.12521820068359374
+    },
+    "ico12vg.jpg": {
+        "hue": 283.431,
+        "saturation": 70.7387,
+        "brightness": 65.8298,
+        "pixels": 120033,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09157791137695312
+    },
+    "ico40vg.jpg": {
+        "hue": 178.436,
+        "saturation": 61.6268,
+        "brightness": 62.4621,
+        "pixels": 108240,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.08258056640625
+    },
+    "ico41vg.jpg": {
+        "hue": 171.583,
+        "saturation": 63.004,
+        "brightness": 73.8735,
+        "pixels": 220761,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.16842727661132811
+    },
+    "ile021he.jpg": {
+        "hue": 327.88,
+        "saturation": 38.101,
+        "brightness": 83.445,
+        "pixels": 437274,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.33361358642578126
+    },
+    "ile04he.jpg": {
+        "hue": 316.35,
+        "saturation": 37.0684,
+        "brightness": 85.3175,
+        "pixels": 558559,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4261466979980469
+    },
+    "ile10he.jpg": {
+        "hue": 317.949,
+        "saturation": 60.4148,
+        "brightness": 77.1145,
+        "pixels": 6685,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.005100250244140625
+    },
+    "ile11he.jpg": {
+        "hue": 296.688,
+        "saturation": 30.3331,
+        "brightness": 82.8802,
+        "pixels": 375208,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.286260986328125
+    },
+    "ile21he.jpg": {
+        "hue": 308.318,
+        "saturation": 31.1708,
+        "brightness": 81.5622,
+        "pixels": 409776,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.31263427734375
+    },
+    "ile40he.jpg": {
+        "hue": 304.955,
+        "saturation": 38.8402,
+        "brightness": 84.6113,
+        "pixels": 477343,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3641838073730469
+    },
+    "ile43he.jpg": {
+        "hue": 292.246,
+        "saturation": 33.2625,
+        "brightness": 84.9102,
+        "pixels": 333925,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2547645568847656
+    },
+    "imos10he.jpg": {
+        "hue": 325.002,
+        "saturation": 36.3793,
+        "brightness": 81.9511,
+        "pixels": 311211,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23743515014648436
+    },
+    "imos10vg.jpg": {
+        "hue": 38.2977,
+        "saturation": 31.1089,
+        "brightness": 83.4459,
+        "pixels": 267320,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.203948974609375
+    },
+    "imos20vg.jpg": {
+        "hue": 11.6975,
+        "saturation": 62.6577,
+        "brightness": 74.2391,
+        "pixels": 201254,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.15354461669921876
+    },
+    "imos40he.jpg": {
+        "hue": 320.824,
+        "saturation": 34.113,
+        "brightness": 82.1395,
+        "pixels": 337439,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2574455261230469
+    },
+    "iri11vg.jpg": {
+        "hue": 254.039,
+        "saturation": 58.1034,
+        "brightness": 39.7924,
+        "pixels": 162146,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.12370758056640625
+    },
+    "iri20vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "iri42vg.jpg": {
+        "hue": 54.7369,
+        "saturation": 51.7276,
+        "brightness": 30.0521,
+        "pixels": 164799,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.12573165893554689
+    },
+    "jej02he.jpg": {
+        "hue": 322.534,
+        "saturation": 33.6326,
+        "brightness": 85.4809,
+        "pixels": 453232,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34578857421875
+    },
+    "jej20he.jpg": {
+        "hue": 318.717,
+        "saturation": 32.3949,
+        "brightness": 82.2396,
+        "pixels": 344495,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2628288269042969
+    },
+    "kid04he.jpg": {
+        "hue": 293.786,
+        "saturation": 31.8427,
+        "brightness": 83.1485,
+        "pixels": 538385,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4107551574707031
+    },
+    "kid04ms.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "kid20ms.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "kid21he.jpg": {
+        "hue": 302.038,
+        "saturation": 31.5613,
+        "brightness": 80.6619,
+        "pixels": 253747,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19359359741210938
+    },
+    "kid40he.jpg": {
+        "hue": 285.769,
+        "saturation": 31.1276,
+        "brightness": 75.0825,
+        "pixels": 200373,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.15287246704101562
+    },
+    "kid40ms.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "kid41he.jpg": {
+        "hue": 310.997,
+        "saturation": 33.0433,
+        "brightness": 85.4069,
+        "pixels": 848462,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6473251342773437
+    },
+    "kid42he.jpg": {
+        "hue": 295.156,
+        "saturation": 57.7647,
+        "brightness": 70.8071,
+        "pixels": 47725,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.036411285400390625
+    },
+    "kif10he.jpg": {
+        "hue": 302.505,
+        "saturation": 34.6173,
+        "brightness": 84.0241,
+        "pixels": 550025,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4196357727050781
+    },
+    "kif42he.jpg": {
+        "hue": 297.951,
+        "saturation": 35.9227,
+        "brightness": 80.9754,
+        "pixels": 416124,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3174774169921875
+    },
+    "kif44he.jpg": {
+        "hue": 302.021,
+        "saturation": 30.0996,
+        "brightness": 78.4968,
+        "pixels": 127283,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09710922241210937
+    },
+    "kif45he.jpg": {
+        "hue": 293.773,
+        "saturation": 38.1846,
+        "brightness": 82.6728,
+        "pixels": 593265,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4526252746582031
+    },
+    "kif46he.jpg": {
+        "hue": 294.492,
+        "saturation": 36.8201,
+        "brightness": 82.8904,
+        "pixels": 452331,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34510116577148436
+    },
+    "kup10ct.jpg": {
+        "hue": 258.654,
+        "saturation": 33.0995,
+        "brightness": 71.4609,
+        "pixels": 282880,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2158203125
+    },
+    "kup40ct.jpg": {
+        "hue": 286.852,
+        "saturation": 36.3391,
+        "brightness": 66.1902,
+        "pixels": 294551,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22472457885742186
+    },
+    "lab10he.jpg": {
+        "hue": 316.648,
+        "saturation": 31.5926,
+        "brightness": 83.5231,
+        "pixels": 344529,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.26285476684570314
+    },
+    "lab40he.jpg": {
+        "hue": 303.685,
+        "saturation": 33.1777,
+        "brightness": 83.3244,
+        "pixels": 295950,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22579193115234375
+    },
+    "lang40ic.jpg": {
+        "hue": 10.6742,
+        "saturation": 33.2885,
+        "brightness": 73.815,
+        "pixels": 35583,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.027147674560546876
+    },
+    "len40he.jpg": {
+        "hue": 307.1,
+        "saturation": 45.8067,
+        "brightness": 87.3749,
+        "pixels": 427278,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32598724365234377
+    },
+    "lif101gi.jpg": {
+        "hue": 253.549,
+        "saturation": 33.6749,
+        "brightness": 86.9093,
+        "pixels": 187351,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14293746948242186
+    },
+    "lif40he.jpg": {
+        "hue": 300.352,
+        "saturation": 35.3333,
+        "brightness": 88.9167,
+        "pixels": 551321,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4206245422363281
+    },
+    "lip11he.jpg": {
+        "hue": 277.687,
+        "saturation": 52.2052,
+        "brightness": 51.2637,
+        "pixels": 8648,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.006597900390625
+    },
+    "lip12he.jpg": {
+        "hue": 296.235,
+        "saturation": 30.6221,
+        "brightness": 83.7189,
+        "pixels": 255310,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19478607177734375
+    },
+    "lip40he.jpg": {
+        "hue": 312.121,
+        "saturation": 30.3538,
+        "brightness": 80.8578,
+        "pixels": 333579,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2545005798339844
+    },
+    "lip41he.jpg": {
+        "hue": 305.837,
+        "saturation": 53.6,
+        "brightness": 63.7035,
+        "pixels": 51346,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03917388916015625
+    },
+    "liv02ct.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "liv10re.jpg": {
+        "hue": 253.514,
+        "saturation": 32.6085,
+        "brightness": 37.9782,
+        "pixels": 61009,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.04654617309570312
+    },
+    "liv40re.jpg": {
+        "hue": 230.641,
+        "saturation": 31.6181,
+        "brightness": 40.2497,
+        "pixels": 100243,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07647933959960937
+    },
+    "liverhum004he.jpg": {
+        "hue": 339.375,
+        "saturation": 39.4882,
+        "brightness": 84.3067,
+        "pixels": 936050,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.7141494750976562
+    },
+    "liverhum011he.jpg": {
+        "hue": 335.308,
+        "saturation": 40.0544,
+        "brightness": 83.1667,
+        "pixels": 692805,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5285682678222656
+    },
+    "liverhum020he.jpg": {
+        "hue": 330.242,
+        "saturation": 38.0431,
+        "brightness": 82.7776,
+        "pixels": 750614,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5726730346679687
+    },
+    "liverhum040he.jpg": {
+        "hue": 332.074,
+        "saturation": 37.535,
+        "brightness": 80.8256,
+        "pixels": 630223,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4808219909667969
+    },
+    "liverhum042he.jpg": {
+        "hue": 329.662,
+        "saturation": 37.0781,
+        "brightness": 80.8687,
+        "pixels": 691962,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5279251098632812
+    },
+    "liverhum045he.jpg": {
+        "hue": 327.229,
+        "saturation": 36.5097,
+        "brightness": 80.2829,
+        "pixels": 422938,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32267608642578127
+    },
+    "luf20he.jpg": {
+        "hue": 292.403,
+        "saturation": 56.0514,
+        "brightness": 67.765,
+        "pixels": 20449,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.015601348876953126
+    },
+    "luf40he.jpg": {
+        "hue": 287.109,
+        "saturation": 34.6731,
+        "brightness": 63.5467,
+        "pixels": 188840,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.144073486328125
+    },
+    "lun04he.jpg": {
+        "hue": 321.989,
+        "saturation": 74.0515,
+        "brightness": 79.8503,
+        "pixels": 36893,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.028147125244140626
+    },
+    "lun10he.jpg": {
+        "hue": 322.334,
+        "saturation": 58.04,
+        "brightness": 81.8899,
+        "pixels": 41262,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03148040771484375
+    },
+    "lun10re.jpg": {
+        "hue": 196.457,
+        "saturation": 51.4558,
+        "brightness": 47.9303,
+        "pixels": 173854,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.13264007568359376
+    },
+    "lun11he.jpg": {
+        "hue": 322.148,
+        "saturation": 58.3727,
+        "brightness": 77.6286,
+        "pixels": 36447,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.027806854248046874
+    },
+    "lun12he.jpg": {
+        "hue": 314.16,
+        "saturation": 59.5762,
+        "brightness": 79.9812,
+        "pixels": 37729,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.028784942626953126
+    },
+    "lun20el.jpg": {
+        "hue": 284.362,
+        "saturation": 62.1251,
+        "brightness": 47.3858,
+        "pixels": 59117,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.045102691650390624
+    },
+    "lun20he.jpg": {
+        "hue": 320.126,
+        "saturation": 65.0908,
+        "brightness": 80.0353,
+        "pixels": 30274,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.02309722900390625
+    },
+    "lun40re.jpg": {
+        "hue": 178.032,
+        "saturation": 60.9592,
+        "brightness": 51.7904,
+        "pixels": 134977,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10297927856445313
+    },
+    "lun41he.jpg": {
+        "hue": 286.359,
+        "saturation": 58.6401,
+        "brightness": 74.9652,
+        "pixels": 13438,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01025238037109375
+    },
+    "ly103le.jpg": {
+        "hue": 257.366,
+        "saturation": 55.482,
+        "brightness": 83.4191,
+        "pixels": 10565,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.008060455322265625
+    },
+    "ly105le.jpg": {
+        "hue": 291.488,
+        "saturation": 34.3402,
+        "brightness": 87.3511,
+        "pixels": 49819,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03800888061523437
+    },
+    "lyn041he.jpg": {
+        "hue": 294.091,
+        "saturation": 34.2074,
+        "brightness": 82.759,
+        "pixels": 636020,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4852447509765625
+    },
+    "lyn11he.jpg": {
+        "hue": 289.25,
+        "saturation": 35.3058,
+        "brightness": 78.5297,
+        "pixels": 487630,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.37203216552734375
+    },
+    "lyn40he.jpg": {
+        "hue": 297.147,
+        "saturation": 30.5791,
+        "brightness": 80.2586,
+        "pixels": 278785,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21269607543945312
+    },
+    "lyn41he.jpg": {
+        "hue": 285.582,
+        "saturation": 33.8682,
+        "brightness": 86.0805,
+        "pixels": 584332,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4458099365234375
+    },
+    "lyn42he.jpg": {
+        "hue": 306.925,
+        "saturation": 36.5677,
+        "brightness": 81.6682,
+        "pixels": 370279,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2825004577636719
+    },
+    "lyn44he.jpg": {
+        "hue": 288.364,
+        "saturation": 30.5334,
+        "brightness": 78.6539,
+        "pixels": 299942,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22883758544921876
+    },
+    "mac40ic.jpg": {
+        "hue": 337.793,
+        "saturation": 39.535,
+        "brightness": 65.2489,
+        "pixels": 105465,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.08046340942382812
+    },
+    "mag04he.jpg": {
+        "hue": 330.734,
+        "saturation": 60.9807,
+        "brightness": 92.0547,
+        "pixels": 6422,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00489959716796875
+    },
+    "mag20he.jpg": {
+        "hue": 304.239,
+        "saturation": 57.4612,
+        "brightness": 76.7048,
+        "pixels": 39767,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.030339813232421874
+    },
+    "mas101tb.jpg": {
+        "hue": 245.523,
+        "saturation": 71.4115,
+        "brightness": 74.9846,
+        "pixels": 75925,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.057926177978515625
+    },
+    "mei40he.jpg": {
+        "hue": 329.633,
+        "saturation": 40.2696,
+        "brightness": 88.343,
+        "pixels": 484502,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.36964569091796873
+    },
+    "microglia021icc.jpg": {
+        "hue": 30.0684,
+        "saturation": 66.0993,
+        "brightness": 70.5464,
+        "pixels": 44294,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03379364013671875
+    },
+    "microglia026icc.jpg": {
+        "hue": 26.3035,
+        "saturation": 72.9661,
+        "brightness": 67.5128,
+        "pixels": 48893,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.037302398681640626
+    },
+    "microglia041icc.jpg": {
+        "hue": 31.271,
+        "saturation": 66.9533,
+        "brightness": 68.5353,
+        "pixels": 47290,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03607940673828125
+    },
+    "mitosis101.jpg": {
+        "hue": 337.515,
+        "saturation": 60.8691,
+        "brightness": 64.5508,
+        "pixels": 77390,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05904388427734375
+    },
+    "mitosis102.jpg": {
+        "hue": 280.272,
+        "saturation": 50.0431,
+        "brightness": 66.7735,
+        "pixels": 53661,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.04094009399414063
+    },
+    "mitosis104.jpg": {
+        "hue": 326.863,
+        "saturation": 34.2332,
+        "brightness": 78.3631,
+        "pixels": 138610,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10575103759765625
+    },
+    "mo101le.jpg": {
+        "hue": 291.668,
+        "saturation": 74.6628,
+        "brightness": 83.7029,
+        "pixels": 18334,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01398773193359375
+    },
+    "mo103le.jpg": {
+        "hue": 295.257,
+        "saturation": 31.7238,
+        "brightness": 88.0121,
+        "pixels": 104209,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07950515747070312
+    },
+    "mo105le.jpg": {
+        "hue": 257.606,
+        "saturation": 32.5762,
+        "brightness": 87.635,
+        "pixels": 31537,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.024060821533203124
+    },
+    "msp20he.jpg": {
+        "hue": 327.393,
+        "saturation": 55.243,
+        "brightness": 75.7837,
+        "pixels": 221833,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.16924514770507812
+    },
+    "msp40he.jpg": {
+        "hue": 326.813,
+        "saturation": 56.0298,
+        "brightness": 74.3974,
+        "pixels": 108735,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.08295822143554688
+    },
+    "ne101le.jpg": {
+        "hue": 263.439,
+        "saturation": 39.5916,
+        "brightness": 84.1668,
+        "pixels": 8832,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00673828125
+    },
+    "ner04os.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "ner20os.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "ner20tr.jpg": {
+        "hue": 231.966,
+        "saturation": 56.6487,
+        "brightness": 69.4569,
+        "pixels": 16665,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.012714385986328125
+    },
+    "ner40os.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "nip02he.jpg": {
+        "hue": 315.11,
+        "saturation": 60.8545,
+        "brightness": 70.6761,
+        "pixels": 61338,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.04679718017578125
+    },
+    "nip21he.jpg": {
+        "hue": 258.582,
+        "saturation": 35.9467,
+        "brightness": 81.0205,
+        "pixels": 17764,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0135528564453125
+    },
+    "nip40he.jpg": {
+        "hue": 328.248,
+        "saturation": 31.7353,
+        "brightness": 87.1311,
+        "pixels": 651015,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4966850280761719
+    },
+    "odu00he.jpg": {
+        "hue": 312.788,
+        "saturation": 30.4271,
+        "brightness": 71.0947,
+        "pixels": 200103,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.15266647338867187
+    },
+    "odu04he.jpg": {
+        "hue": 285.782,
+        "saturation": 48.0951,
+        "brightness": 51.4615,
+        "pixels": 73487,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.056066131591796874
+    },
+    "odu20he.jpg": {
+        "hue": 321.149,
+        "saturation": 37.6716,
+        "brightness": 88.6689,
+        "pixels": 629533,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.48029556274414065
+    },
+    "odu40he.jpg": {
+        "hue": 295.17,
+        "saturation": 35.2368,
+        "brightness": 82.7775,
+        "pixels": 499470,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.38106536865234375
+    },
+    "odu41he.jpg": {
+        "hue": 276.773,
+        "saturation": 31.6974,
+        "brightness": 70.4949,
+        "pixels": 387126,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.29535369873046874
+    },
+    "oes04he.jpg": {
+        "hue": 320.019,
+        "saturation": 59.713,
+        "brightness": 78.11,
+        "pixels": 8709,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.006644439697265625
+    },
+    "oes10vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "oes11he.jpg": {
+        "hue": 325.986,
+        "saturation": 59.1997,
+        "brightness": 77.572,
+        "pixels": 24378,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01859893798828125
+    },
+    "oes12he.jpg": {
+        "hue": 322.528,
+        "saturation": 33.0377,
+        "brightness": 84.0754,
+        "pixels": 503151,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.38387374877929686
+    },
+    "oes20az.jpg": {
+        "hue": 288.721,
+        "saturation": 68.1689,
+        "brightness": 71.0397,
+        "pixels": 422654,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32245941162109376
+    },
+    "oes40he.jpg": {
+        "hue": 310.644,
+        "saturation": 57.3901,
+        "brightness": 73.8535,
+        "pixels": 20737,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.015821075439453124
+    },
+    "oes40vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "opt02vg.jpg": {
+        "hue": 22.5732,
+        "saturation": 55.6644,
+        "brightness": 83.1481,
+        "pixels": 416743,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3179496765136719
+    },
+    "opt10vg.jpg": {
+        "hue": 24.5939,
+        "saturation": 57.4264,
+        "brightness": 77.7668,
+        "pixels": 390839,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2981864929199219
+    },
+    "ova20he.jpg": {
+        "hue": 292.558,
+        "saturation": 33.7794,
+        "brightness": 81.5718,
+        "pixels": 426403,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3253196716308594
+    },
+    "ova21he.jpg": {
+        "hue": 303.259,
+        "saturation": 34.5838,
+        "brightness": 83.178,
+        "pixels": 447111,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34111862182617186
+    },
+    "ova22he.jpg": {
+        "hue": 281.948,
+        "saturation": 33.01,
+        "brightness": 84.2604,
+        "pixels": 434697,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3316474914550781
+    },
+    "ova41he.jpg": {
+        "hue": 284.83,
+        "saturation": 36.7589,
+        "brightness": 84.9502,
+        "pixels": 523834,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.39965362548828126
+    },
+    "ova44he.jpg": {
+        "hue": 300.237,
+        "saturation": 36.3431,
+        "brightness": 83.9767,
+        "pixels": 434366,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.33139495849609374
+    },
+    "ova47he.jpg": {
+        "hue": 303.857,
+        "saturation": 30.8365,
+        "brightness": 80.2292,
+        "pixels": 314219,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23973007202148439
+    },
+    "p37g0430.jpg": {
+        "hue": 233.796,
+        "saturation": 31.7374,
+        "brightness": 63.3374,
+        "pixels": 6800,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.023102848445314197
+    },
+    "pac04he.jpg": {
+        "hue": 331.4,
+        "saturation": 35.6994,
+        "brightness": 82.2684,
+        "pixels": 489134,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.37317962646484376
+    },
+    "pac10he.jpg": {
+        "hue": 326.658,
+        "saturation": 57.2575,
+        "brightness": 73.3816,
+        "pixels": 78683,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.060030364990234376
+    },
+    "pan10he.jpg": {
+        "hue": 315.482,
+        "saturation": 38.1285,
+        "brightness": 81.2638,
+        "pixels": 399653,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.30491104125976565
+    },
+    "pan20he.jpg": {
+        "hue": 313.586,
+        "saturation": 64.2568,
+        "brightness": 81.8076,
+        "pixels": 378882,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.28906402587890623
+    },
+    "pan20tc.jpg": {
+        "hue": 229.591,
+        "saturation": 41.1937,
+        "brightness": 71.1963,
+        "pixels": 307469,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23458023071289064
+    },
+    "pan40he.jpg": {
+        "hue": 314.916,
+        "saturation": 62.0291,
+        "brightness": 82.7508,
+        "pixels": 597303,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4557060241699219
+    },
+    "pan40ic.jpg": {
+        "hue": 207.14,
+        "saturation": 30.8496,
+        "brightness": 80.8837,
+        "pixels": 187515,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14306259155273438
+    },
+    "pan41he.jpg": {
+        "hue": 323.462,
+        "saturation": 39.1938,
+        "brightness": 87.0956,
+        "pixels": 473747,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.36144027709960935
+    },
+    "pan42he.jpg": {
+        "hue": 312.108,
+        "saturation": 60.5842,
+        "brightness": 79.5766,
+        "pixels": 377103,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2877067565917969
+    },
+    "par101he.jpg": {
+        "hue": 302.877,
+        "saturation": 38.2669,
+        "brightness": 84.2934,
+        "pixels": 424613,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32395401000976565
+    },
+    "par10he.jpg": {
+        "hue": 303.301,
+        "saturation": 34.1362,
+        "brightness": 81.6774,
+        "pixels": 542760,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.414093017578125
+    },
+    "par20he.jpg": {
+        "hue": 303.617,
+        "saturation": 31.9772,
+        "brightness": 79.6036,
+        "pixels": 368299,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2809898376464844
+    },
+    "par42he.jpg": {
+        "hue": 307.726,
+        "saturation": 62.6709,
+        "brightness": 71.8031,
+        "pixels": 21246,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.01620941162109375
+    },
+    "par43he.jpg": {
+        "hue": 311.967,
+        "saturation": 34.0784,
+        "brightness": 79.4133,
+        "pixels": 504211,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.38468246459960936
+    },
+    "par44he.jpg": {
+        "hue": 303.896,
+        "saturation": 31.5208,
+        "brightness": 79.5754,
+        "pixels": 405684,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3095123291015625
+    },
+    "pen00tr.jpg": {
+        "hue": 326.104,
+        "saturation": 62.5945,
+        "brightness": 61.1863,
+        "pixels": 55007,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.041967010498046874
+    },
+    "pen02tr.jpg": {
+        "hue": 292.877,
+        "saturation": 38.237,
+        "brightness": 67.4088,
+        "pixels": 317942,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24257049560546876
+    },
+    "pen10tr.jpg": {
+        "hue": 302.852,
+        "saturation": 62.4592,
+        "brightness": 62.3675,
+        "pixels": 307038,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23425140380859374
+    },
+    "pey02he.jpg": {
+        "hue": 291.978,
+        "saturation": 38.9524,
+        "brightness": 69.218,
+        "pixels": 413136,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.31519775390625
+    },
+    "pey101he.jpg": {
+        "hue": 293.467,
+        "saturation": 37.047,
+        "brightness": 82.4666,
+        "pixels": 439960,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.335662841796875
+    },
+    "pey20he.jpg": {
+        "hue": 276.158,
+        "saturation": 65.2133,
+        "brightness": 65.4085,
+        "pixels": 326765,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24930191040039062
+    },
+    "pin10he.jpg": {
+        "hue": 300.83,
+        "saturation": 30.5933,
+        "brightness": 82.1997,
+        "pixels": 171153,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.13057937622070312
+    },
+    "pin42he.jpg": {
+        "hue": 291.705,
+        "saturation": 32.4301,
+        "brightness": 83.8881,
+        "pixels": 294897,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22498855590820313
+    },
+    "plas101he.jpg": {
+        "hue": 310.164,
+        "saturation": 34.1924,
+        "brightness": 82.3725,
+        "pixels": 459644,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3506805419921875
+    },
+    "ple04he.jpg": {
+        "hue": 305.605,
+        "saturation": 57.3712,
+        "brightness": 84.4357,
+        "pixels": 56247,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.042913055419921874
+    },
+    "ple20he.jpg": {
+        "hue": 290.583,
+        "saturation": 61.1427,
+        "brightness": 64.1045,
+        "pixels": 129614,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09888763427734375
+    },
+    "ple41he.jpg": {
+        "hue": 295.988,
+        "saturation": 62.1538,
+        "brightness": 64.73,
+        "pixels": 244989,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.18691177368164064
+    },
+    "pll04he.jpg": {
+        "hue": 318.696,
+        "saturation": 56.3183,
+        "brightness": 79.1496,
+        "pixels": 355943,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2715629577636719
+    },
+    "pll20he.jpg": {
+        "hue": 314.543,
+        "saturation": 38.5356,
+        "brightness": 86.2987,
+        "pixels": 247981,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.18919448852539061
+    },
+    "pll41he.jpg": {
+        "hue": 317.212,
+        "saturation": 62.7392,
+        "brightness": 77.7164,
+        "pixels": 338221,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2580421447753906
+    },
+    "pos20he.jpg": {
+        "hue": 315.484,
+        "saturation": 39.0147,
+        "brightness": 89.5244,
+        "pixels": 674280,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.514434814453125
+    },
+    "pro04he.jpg": {
+        "hue": 316.248,
+        "saturation": 32.0352,
+        "brightness": 89.7759,
+        "pixels": 626414,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.47791595458984376
+    },
+    "pro10he.jpg": {
+        "hue": 315.612,
+        "saturation": 31.9978,
+        "brightness": 88.7691,
+        "pixels": 433699,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3308860778808594
+    },
+    "pro11he.jpg": {
+        "hue": 328.419,
+        "saturation": 35.7587,
+        "brightness": 88.7524,
+        "pixels": 988550,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.7542037963867188
+    },
+    "pro20he.jpg": {
+        "hue": 312.302,
+        "saturation": 34.6894,
+        "brightness": 87.6939,
+        "pixels": 471515,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3597373962402344
+    },
+    "pro40he.jpg": {
+        "hue": 309.166,
+        "saturation": 33.137,
+        "brightness": 87.9038,
+        "pixels": 326594,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24917144775390626
+    },
+    "pty10he.jpg": {
+        "hue": 297.769,
+        "saturation": 61.0579,
+        "brightness": 61.2076,
+        "pixels": 142266,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10854034423828125
+    },
+    "pty20he.jpg": {
+        "hue": 294.007,
+        "saturation": 69.495,
+        "brightness": 70.9527,
+        "pixels": 357103,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2724479675292969
+    },
+    "r129_11.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "r145_5.jpg": {
+        "hue": 100.072,
+        "saturation": 52.1925,
+        "brightness": 35.3016,
+        "pixels": 9535,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.03239494998912807
+    },
+    "r166_4.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "r180_5.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "r71-12.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "r91_4.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "re100le.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "ret20mb.jpg": {
+        "hue": 213.801,
+        "saturation": 36.4801,
+        "brightness": 81.4511,
+        "pixels": 341261,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2603614807128906
+    },
+    "ret40he.jpg": {
+        "hue": 299.491,
+        "saturation": 63.0914,
+        "brightness": 81.9645,
+        "pixels": 280483,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21399154663085937
+    },
+    "s29l1608.jpg": {
+        "hue": 48.3133,
+        "saturation": 34.6621,
+        "brightness": 90.1133,
+        "pixels": 51760,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1758534464013916
+    },
+    "sco04vg.jpg": {
+        "hue": 334.628,
+        "saturation": 81.303,
+        "brightness": 73.1358,
+        "pixels": 180764,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.1379119873046875
+    },
+    "sco10vg.jpg": {
+        "hue": 309.306,
+        "saturation": 58.7826,
+        "brightness": 62.8709,
+        "pixels": 74595,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.056911468505859375
+    },
+    "sco40vg.jpg": {
+        "hue": 320.419,
+        "saturation": 60.5785,
+        "brightness": 58.2529,
+        "pixels": 122684,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0936004638671875
+    },
+    "seb20he.jpg": {
+        "hue": 328.042,
+        "saturation": 59.7217,
+        "brightness": 82.8565,
+        "pixels": 465609,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.35523147583007814
+    },
+    "sev10he.jpg": {
+        "hue": 303.172,
+        "saturation": 40.3776,
+        "brightness": 88.4025,
+        "pixels": 472860,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3607635498046875
+    },
+    "sev40he.jpg": {
+        "hue": 305.221,
+        "saturation": 35.3438,
+        "brightness": 82.9722,
+        "pixels": 522667,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.39876327514648435
+    },
+    "skf40he.jpg": {
+        "hue": 319.043,
+        "saturation": 35.2123,
+        "brightness": 86.4174,
+        "pixels": 399913,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.30510940551757815
+    },
+    "skk021he.jpg": {
+        "hue": 311.143,
+        "saturation": 61.4448,
+        "brightness": 64.9515,
+        "pixels": 133691,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10199813842773438
+    },
+    "skk02tc.jpg": {
+        "hue": 257.266,
+        "saturation": 39.0883,
+        "brightness": 37.1063,
+        "pixels": 101677,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07757339477539063
+    },
+    "skk100tc.jpg": {
+        "hue": 269.759,
+        "saturation": 53.8408,
+        "brightness": 44.8892,
+        "pixels": 445741,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3400733947753906
+    },
+    "skk10tc.jpg": {
+        "hue": 311.029,
+        "saturation": 67.9972,
+        "brightness": 60.2887,
+        "pixels": 194969,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.14874954223632814
+    },
+    "skk20ve.jpg": {
+        "hue": 54.8631,
+        "saturation": 35.3805,
+        "brightness": 82.8274,
+        "pixels": 512039,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3906547546386719
+    },
+    "skk40ke.jpg": {
+        "hue": 300.278,
+        "saturation": 72.0124,
+        "brightness": 78.1956,
+        "pixels": 441415,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3367729187011719
+    },
+    "skk40ve.jpg": {
+        "hue": 306.904,
+        "saturation": 38.411,
+        "brightness": 45.9205,
+        "pixels": 129763,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09900131225585937
+    },
+    "skm041he.jpg": {
+        "hue": 319.081,
+        "saturation": 37.4739,
+        "brightness": 91.8885,
+        "pixels": 873765,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6666297912597656
+    },
+    "skm101hat.jpg": {
+        "hue": 302.406,
+        "saturation": 37.4004,
+        "brightness": 81.1099,
+        "pixels": 359829,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.27452774047851564
+    },
+    "skm101he.jpg": {
+        "hue": 312.281,
+        "saturation": 30.4649,
+        "brightness": 91.1412,
+        "pixels": 661308,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5045379638671875
+    },
+    "skm102he.jpg": {
+        "hue": 319.178,
+        "saturation": 32.3877,
+        "brightness": 90.1421,
+        "pixels": 687556,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5245635986328125
+    },
+    "skm20wp.jpg": {
+        "hue": 262.646,
+        "saturation": 30.4146,
+        "brightness": 78.7666,
+        "pixels": 312740,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2386016845703125
+    },
+    "skm40he.jpg": {
+        "hue": 318.295,
+        "saturation": 31.6694,
+        "brightness": 90.8795,
+        "pixels": 752428,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5740570068359375
+    },
+    "skm40vg.jpg": {
+        "hue": 343.571,
+        "saturation": 33.4177,
+        "brightness": 79.6512,
+        "pixels": 492495,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3757438659667969
+    },
+    "skm40wp.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "skm41he.jpg": {
+        "hue": 317.223,
+        "saturation": 30.9566,
+        "brightness": 88.6013,
+        "pixels": 674931,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5149314880371094
+    },
+    "skm41wp.jpg": {
+        "hue": 257.449,
+        "saturation": 53.1513,
+        "brightness": 49.5755,
+        "pixels": 45847,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.034978485107421874
+    },
+    "skm42he.jpg": {
+        "hue": 317.968,
+        "saturation": 42.2726,
+        "brightness": 92.8932,
+        "pixels": 904249,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6898872375488281
+    },
+    "skn10he.jpg": {
+        "hue": 320.208,
+        "saturation": 60.3658,
+        "brightness": 74.0613,
+        "pixels": 70831,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05403976440429688
+    },
+    "skn40he.jpg": {
+        "hue": 321.423,
+        "saturation": 62.055,
+        "brightness": 80.2114,
+        "pixels": 378528,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2887939453125
+    },
+    "sky02he.jpg": {
+        "hue": 332.508,
+        "saturation": 55.5481,
+        "brightness": 82.1885,
+        "pixels": 104378,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.07963409423828124
+    },
+    "sky20he.jpg": {
+        "hue": 315.283,
+        "saturation": 64.7566,
+        "brightness": 71.2643,
+        "pixels": 177335,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.13529586791992188
+    },
+    "sky21he.jpg": {
+        "hue": 315.871,
+        "saturation": 37.7431,
+        "brightness": 86.6545,
+        "pixels": 432083,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3296531677246094
+    },
+    "sky23he.jpg": {
+        "hue": 306.387,
+        "saturation": 35.1066,
+        "brightness": 87.0585,
+        "pixels": 497471,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.37954025268554686
+    },
+    "sma10he.jpg": {
+        "hue": 305.626,
+        "saturation": 33.6233,
+        "brightness": 84.8255,
+        "pixels": 319886,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24405364990234374
+    },
+    "spc00lf.jpg": {
+        "hue": 209.294,
+        "saturation": 35.4919,
+        "brightness": 79.9943,
+        "pixels": 396838,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.30276336669921877
+    },
+    "spc20he.jpg": {
+        "hue": 302.43,
+        "saturation": 36.1298,
+        "brightness": 79.6606,
+        "pixels": 592205,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4518165588378906
+    },
+    "spc40ag.jpg": {
+        "hue": 28.7917,
+        "saturation": 68.3139,
+        "brightness": 63.3806,
+        "pixels": 359835,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2745323181152344
+    },
+    "spc40lf.jpg": {
+        "hue": 205.243,
+        "saturation": 36.2868,
+        "brightness": 80.1174,
+        "pixels": 316393,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.24138870239257812
+    },
+    "spc41ag.jpg": {
+        "hue": 20.7982,
+        "saturation": 70.0544,
+        "brightness": 36.469,
+        "pixels": 247602,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.18890533447265626
+    },
+    "spc42lf.jpg": {
+        "hue": 208.861,
+        "saturation": 35.3009,
+        "brightness": 83.552,
+        "pixels": 305127,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23279342651367188
+    },
+    "sperm020papa.jpg": {
+        "hue": 276.632,
+        "saturation": 53.6014,
+        "brightness": 57.4714,
+        "pixels": 13149,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.010031890869140626
+    },
+    "sperm040papa.jpg": {
+        "hue": 264.315,
+        "saturation": 37.1174,
+        "brightness": 45.4579,
+        "pixels": 12564,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0095855712890625
+    },
+    "sperm101papa.jpg": {
+        "hue": 252.52,
+        "saturation": 36.1999,
+        "brightness": 39.1176,
+        "pixels": 11534,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00879974365234375
+    },
+    "spermbov020.jpg": {
+        "hue": 225.197,
+        "saturation": 65.1251,
+        "brightness": 99.947,
+        "pixels": 915020,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6981048583984375
+    },
+    "spermbov105.jpg": {
+        "hue": 225.428,
+        "saturation": 67.8037,
+        "brightness": 99.9502,
+        "pixels": 1022692,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.7802520751953125
+    },
+    "spermtrit020.jpg": {
+        "hue": 224.713,
+        "saturation": 54.9607,
+        "brightness": 95.1272,
+        "pixels": 817386,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6236160278320313
+    },
+    "spl04he.jpg": {
+        "hue": 290.227,
+        "saturation": 38.3252,
+        "brightness": 72.7498,
+        "pixels": 19949,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.015219879150390626
+    },
+    "spl10he.jpg": {
+        "hue": 284.865,
+        "saturation": 33.5702,
+        "brightness": 72.6722,
+        "pixels": 49955,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.038112640380859375
+    },
+    "spl10re.jpg": {
+        "hue": 311.949,
+        "saturation": 32.9026,
+        "brightness": 63.7081,
+        "pixels": 496217,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3785835266113281
+    },
+    "spl20he.jpg": {
+        "hue": 286.462,
+        "saturation": 31.2973,
+        "brightness": 80.2934,
+        "pixels": 259613,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19806900024414062
+    },
+    "spl40he.jpg": {
+        "hue": 285.972,
+        "saturation": 35.7609,
+        "brightness": 70.2508,
+        "pixels": 227343,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.17344894409179687
+    },
+    "spl43he.jpg": {
+        "hue": 279.857,
+        "saturation": 30.7444,
+        "brightness": 72.3824,
+        "pixels": 122439,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09341354370117187
+    },
+    "spl43re.jpg": {
+        "hue": 310.898,
+        "saturation": 31.2579,
+        "brightness": 33.605,
+        "pixels": 291912,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.222711181640625
+    },
+    "spl44he.jpg": {
+        "hue": 300.48,
+        "saturation": 30.3313,
+        "brightness": 83.7038,
+        "pixels": 137314,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.10476226806640625
+    },
+    "spl44re.jpg": {
+        "hue": 301.23,
+        "saturation": 31.0791,
+        "brightness": 74.879,
+        "pixels": 427157,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3258949279785156
+    },
+    "sto00he.jpg": {
+        "hue": 299.776,
+        "saturation": 63.5147,
+        "brightness": 68.6214,
+        "pixels": 279818,
+        "width": 1279,
+        "height": 1023,
+        "coverage": 0.21385995443348718
+    },
+    "sto10he.jpg": {
+        "hue": 293.76,
+        "saturation": 58.1016,
+        "brightness": 73.0226,
+        "pixels": 337327,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25736007690429685
+    },
+    "sto10pa.jpg": {
+        "hue": 300.476,
+        "saturation": 31.1326,
+        "brightness": 78.2218,
+        "pixels": 257149,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19618911743164064
+    },
+    "sto40pa.jpg": {
+        "hue": 297.721,
+        "saturation": 33.6772,
+        "brightness": 82.226,
+        "pixels": 259501,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.19798355102539061
+    },
+    "sto44he.jpg": {
+        "hue": 310.364,
+        "saturation": 39.723,
+        "brightness": 88.3464,
+        "pixels": 441476,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3368194580078125
+    },
+    "sto45he.jpg": {
+        "hue": 283.412,
+        "saturation": 66.8299,
+        "brightness": 73.4358,
+        "pixels": 406446,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.31009368896484374
+    },
+    "sub10he.jpg": {
+        "hue": 274.86,
+        "saturation": 52.8336,
+        "brightness": 61.2704,
+        "pixels": 35090,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.02677154541015625
+    },
+    "sub20he.jpg": {
+        "hue": 304.679,
+        "saturation": 30.1201,
+        "brightness": 79.8738,
+        "pixels": 263601,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.20111160278320311
+    },
+    "sub40he.jpg": {
+        "hue": 270.941,
+        "saturation": 56.9298,
+        "brightness": 67.572,
+        "pixels": 49779,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.03797836303710937
+    },
+    "swa20he.jpg": {
+        "hue": 306.039,
+        "saturation": 61.2254,
+        "brightness": 66.7365,
+        "pixels": 16729,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.012763214111328126
+    },
+    "swm100he.jpg": {
+        "hue": 311.248,
+        "saturation": 35.4449,
+        "brightness": 87.0322,
+        "pixels": 438565,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3345985412597656
+    },
+    "swm11he.jpg": {
+        "hue": 322.706,
+        "saturation": 64.0901,
+        "brightness": 71.9821,
+        "pixels": 117967,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.09000167846679688
+    },
+    "swm21he.jpg": {
+        "hue": 317.749,
+        "saturation": 63.581,
+        "brightness": 74.3511,
+        "pixels": 106424,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.081195068359375
+    },
+    "tab04he.jpg": {
+        "hue": 322.03,
+        "saturation": 65.0663,
+        "brightness": 77.0954,
+        "pixels": 288079,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21978683471679689
+    },
+    "tab04vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "tab20vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "tab40he.jpg": {
+        "hue": 320.541,
+        "saturation": 32.3718,
+        "brightness": 87.9713,
+        "pixels": 572373,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.43668594360351565
+    },
+    "tab40vg.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0
+    },
+    "te101pa.jpg": {
+        "hue": 285.775,
+        "saturation": 31.5714,
+        "brightness": 81.4909,
+        "pixels": 349308,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2665008544921875
+    },
+    "tea02he.jpg": {
+        "hue": 320.402,
+        "saturation": 34.3632,
+        "brightness": 72.4302,
+        "pixels": 5431,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.004143524169921875
+    },
+    "tea10he.jpg": {
+        "hue": 312.975,
+        "saturation": 31.2522,
+        "brightness": 83.4736,
+        "pixels": 262755,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.20046615600585938
+    },
+    "tea22he.jpg": {
+        "hue": 280.955,
+        "saturation": 53.0259,
+        "brightness": 53.3669,
+        "pixels": 33724,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0257293701171875
+    },
+    "tea42he.jpg": {
+        "hue": 281.671,
+        "saturation": 45.2425,
+        "brightness": 46.42,
+        "pixels": 35392,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.027001953125
+    },
+    "tea44he.jpg": {
+        "hue": 287.415,
+        "saturation": 43.3471,
+        "brightness": 45.7868,
+        "pixels": 44828,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0342010498046875
+    },
+    "tes21pa.jpg": {
+        "hue": 298.342,
+        "saturation": 31.0429,
+        "brightness": 78.5826,
+        "pixels": 310346,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.23677520751953124
+    },
+    "tey01he.jpg": {
+        "hue": 311.962,
+        "saturation": 57.2013,
+        "brightness": 62.3323,
+        "pixels": 4302,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00328216552734375
+    },
+    "tey10he.jpg": {
+        "hue": 307.317,
+        "saturation": 32.8282,
+        "brightness": 79.5192,
+        "pixels": 447264,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3412353515625
+    },
+    "tey20he.jpg": {
+        "hue": 324.074,
+        "saturation": 40.9827,
+        "brightness": 81.4174,
+        "pixels": 514245,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3923377990722656
+    },
+    "tey41he.jpg": {
+        "hue": 309.042,
+        "saturation": 33.6223,
+        "brightness": 80.3797,
+        "pixels": 506917,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3867469787597656
+    },
+    "tey42he.jpg": {
+        "hue": 308.868,
+        "saturation": 34.4745,
+        "brightness": 81.6241,
+        "pixels": 436046,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.33267669677734374
+    },
+    "th100le.jpg": {
+        "hue": 293.382,
+        "saturation": 36.4259,
+        "brightness": 86.3667,
+        "pixels": 30633,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.023371124267578126
+    },
+    "tha40bc.jpg": {
+        "hue": 49.3387,
+        "saturation": 52.3946,
+        "brightness": 55.2396,
+        "pixels": 67795,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.051723480224609375
+    },
+    "thy10he.jpg": {
+        "hue": 319.034,
+        "saturation": 35.6882,
+        "brightness": 86.7074,
+        "pixels": 389781,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2973793029785156
+    },
+    "thy11he.jpg": {
+        "hue": 314.627,
+        "saturation": 33.571,
+        "brightness": 88.2274,
+        "pixels": 1093066,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.8339431762695313
+    },
+    "thy20he.jpg": {
+        "hue": 309.073,
+        "saturation": 39.5551,
+        "brightness": 85.6095,
+        "pixels": 771371,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5885093688964844
+    },
+    "thy21he.jpg": {
+        "hue": 309.465,
+        "saturation": 37.7581,
+        "brightness": 90.3403,
+        "pixels": 1173154,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.8950454711914062
+    },
+    "thy40he.jpg": {
+        "hue": 303.836,
+        "saturation": 40.1496,
+        "brightness": 90.9957,
+        "pixels": 627182,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.47850189208984373
+    },
+    "thy41he.jpg": {
+        "hue": 306.648,
+        "saturation": 38.5558,
+        "brightness": 89.8039,
+        "pixels": 1147624,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.875567626953125
+    },
+    "tng10he.jpg": {
+        "hue": 328.256,
+        "saturation": 56.8642,
+        "brightness": 85.5419,
+        "pixels": 657105,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5013313293457031
+    },
+    "tng20he.jpg": {
+        "hue": 311.765,
+        "saturation": 36.3288,
+        "brightness": 82.9771,
+        "pixels": 494281,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3771064758300781
+    },
+    "tng21he.jpg": {
+        "hue": 314.549,
+        "saturation": 40.703,
+        "brightness": 88.7227,
+        "pixels": 441069,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.33650894165039064
+    },
+    "tns02he.jpg": {
+        "hue": 311.78,
+        "saturation": 51.174,
+        "brightness": 61.0924,
+        "pixels": 4370,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.00333404541015625
+    },
+    "tns40he.jpg": {
+        "hue": 292.092,
+        "saturation": 35.3157,
+        "brightness": 81.4495,
+        "pixels": 368190,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.28090667724609375
+    },
+    "tofo02az.jpg": {
+        "hue": 261.304,
+        "saturation": 64.5065,
+        "brightness": 64.5282,
+        "pixels": 155272,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.118463134765625
+    },
+    "tofo04he.jpg": {
+        "hue": 309.241,
+        "saturation": 34.374,
+        "brightness": 79.1968,
+        "pixels": 289625,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.22096633911132812
+    },
+    "tofo11az.jpg": {
+        "hue": 265.337,
+        "saturation": 76.1683,
+        "brightness": 73.414,
+        "pixels": 330589,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.25221939086914064
+    },
+    "tofo20he.jpg": {
+        "hue": 304.897,
+        "saturation": 35.3062,
+        "brightness": 83.6964,
+        "pixels": 279627,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21333847045898438
+    },
+    "tofo21he.jpg": {
+        "hue": 295.883,
+        "saturation": 30.2868,
+        "brightness": 80.9838,
+        "pixels": 268385,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.20476150512695312
+    },
+    "tofo41az.jpg": {
+        "hue": 303.678,
+        "saturation": 37.7486,
+        "brightness": 80.1764,
+        "pixels": 419770,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.32025909423828125
+    },
+    "tooa041az.jpg": {
+        "hue": 229.565,
+        "saturation": 64.3547,
+        "brightness": 81.7965,
+        "pixels": 570491,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.43525009155273436
+    },
+    "tooa042az.jpg": {
+        "hue": 229.887,
+        "saturation": 87.6338,
+        "brightness": 73.2118,
+        "pixels": 458354,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34969635009765626
+    },
+    "tooa043az.jpg": {
+        "hue": 238.575,
+        "saturation": 82.8194,
+        "brightness": 67.4902,
+        "pixels": 686111,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5234611511230469
+    },
+    "tooa10az.jpg": {
+        "hue": 224.083,
+        "saturation": 67.0321,
+        "brightness": 82.4213,
+        "pixels": 581387,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.44356307983398435
+    },
+    "tooa12az.jpg": {
+        "hue": 246.243,
+        "saturation": 81.8333,
+        "brightness": 67.2659,
+        "pixels": 616843,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4706138610839844
+    },
+    "tooa23az.jpg": {
+        "hue": 225.007,
+        "saturation": 79.8364,
+        "brightness": 81.4191,
+        "pixels": 471299,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3595726013183594
+    },
+    "tra100az.jpg": {
+        "hue": 310.223,
+        "saturation": 75.7601,
+        "brightness": 77.5299,
+        "pixels": 619497,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4726387023925781
+    },
+    "tra10he.jpg": {
+        "hue": 277.606,
+        "saturation": 60.9369,
+        "brightness": 52.1876,
+        "pixels": 26610,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.02030181884765625
+    },
+    "tra11he.jpg": {
+        "hue": 249.451,
+        "saturation": 61.6288,
+        "brightness": 52.0576,
+        "pixels": 41140,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0313873291015625
+    },
+    "tra20az.jpg": {
+        "hue": 250.646,
+        "saturation": 67.6629,
+        "brightness": 77.427,
+        "pixels": 396899,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3028099060058594
+    },
+    "tra42he.jpg": {
+        "hue": 276.884,
+        "saturation": 57.8547,
+        "brightness": 71.461,
+        "pixels": 55913,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.042658233642578126
+    },
+    "tra43he.jpg": {
+        "hue": 294.128,
+        "saturation": 54.2382,
+        "brightness": 72.4151,
+        "pixels": 50563,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.038576507568359376
+    },
+    "tyf04he.jpg": {
+        "hue": 311.145,
+        "saturation": 37.7234,
+        "brightness": 81.1362,
+        "pixels": 582530,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.44443511962890625
+    },
+    "tyf40he.jpg": {
+        "hue": 300.496,
+        "saturation": 37.7741,
+        "brightness": 87.0843,
+        "pixels": 559539,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4268943786621094
+    },
+    "tyf41he.jpg": {
+        "hue": 304.665,
+        "saturation": 35.4354,
+        "brightness": 84.5897,
+        "pixels": 441980,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3372039794921875
+    },
+    "tyi04he.jpg": {
+        "hue": 339.34,
+        "saturation": 34.2051,
+        "brightness": 84.0953,
+        "pixels": 446587,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34071884155273435
+    },
+    "uem021he.jpg": {
+        "hue": 327.003,
+        "saturation": 35.5684,
+        "brightness": 85.8123,
+        "pixels": 759114,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5791580200195312
+    },
+    "uem022he.jpg": {
+        "hue": 321.901,
+        "saturation": 58.8526,
+        "brightness": 74.7175,
+        "pixels": 458002,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.34942779541015623
+    },
+    "uem023he.jpg": {
+        "hue": 326.83,
+        "saturation": 36.6883,
+        "brightness": 81.9095,
+        "pixels": 448603,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3422569274902344
+    },
+    "uem21he.jpg": {
+        "hue": 318.106,
+        "saturation": 39.4403,
+        "brightness": 91.5329,
+        "pixels": 505123,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3853782653808594
+    },
+    "uem22he.jpg": {
+        "hue": 312.61,
+        "saturation": 36.9988,
+        "brightness": 83.6149,
+        "pixels": 438981,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.3349159240722656
+    },
+    "uem41he.jpg": {
+        "hue": 312.035,
+        "saturation": 37.6324,
+        "brightness": 89.1061,
+        "pixels": 639462,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.48787078857421873
+    },
+    "umb00he.jpg": {
+        "hue": 335.821,
+        "saturation": 57.3463,
+        "brightness": 84.1696,
+        "pixels": 45468,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0346893310546875
+    },
+    "umb04he.jpg": {
+        "hue": 325.297,
+        "saturation": 67.481,
+        "brightness": 83.2023,
+        "pixels": 78419,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05982894897460937
+    },
+    "umb42he.jpg": {
+        "hue": 314.774,
+        "saturation": 62.7223,
+        "brightness": 74.0603,
+        "pixels": 50987,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.038899993896484374
+    },
+    "umm10he.jpg": {
+        "hue": 292.564,
+        "saturation": 32.9878,
+        "brightness": 86.0234,
+        "pixels": 693486,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.5290878295898438
+    },
+    "umm40he.jpg": {
+        "hue": 291.03,
+        "saturation": 32.7913,
+        "brightness": 88.1865,
+        "pixels": 634621,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4841773986816406
+    },
+    "ure10he.jpg": {
+        "hue": 326.577,
+        "saturation": 54.0867,
+        "brightness": 78.3004,
+        "pixels": 52332,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.0399261474609375
+    },
+    "ure40he.jpg": {
+        "hue": 323.698,
+        "saturation": 57.5658,
+        "brightness": 85.8863,
+        "pixels": 37830,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.02886199951171875
+    },
+    "vag02he.jpg": {
+        "hue": 313.026,
+        "saturation": 51.6545,
+        "brightness": 78.3758,
+        "pixels": 36392,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.027764892578125
+    },
+    "vas02he.jpg": {
+        "hue": 331.237,
+        "saturation": 38.8429,
+        "brightness": 89.6106,
+        "pixels": 275717,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.21035537719726563
+    },
+    "vas10he.jpg": {
+        "hue": 319.803,
+        "saturation": 33.8746,
+        "brightness": 90.7659,
+        "pixels": 1129059,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.8614036560058593
+    },
+    "vas20he.jpg": {
+        "hue": 322.72,
+        "saturation": 33.9246,
+        "brightness": 90.5134,
+        "pixels": 871796,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6651275634765625
+    },
+    "vas40he.jpg": {
+        "hue": 318.484,
+        "saturation": 36.025,
+        "brightness": 92.4714,
+        "pixels": 836629,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.6382972717285156
+    },
+    "vei10el.jpg": {
+        "hue": 334.483,
+        "saturation": 65.852,
+        "brightness": 81.697,
+        "pixels": 373701,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2851112365722656
+    },
+    "vei10he.jpg": {
+        "hue": 327.285,
+        "saturation": 38.4302,
+        "brightness": 89.4213,
+        "pixels": 555572,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.4238677978515625
+    },
+    "vei20he.jpg": {
+        "hue": 323.2,
+        "saturation": 35.425,
+        "brightness": 86.0827,
+        "pixels": 688912,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.52559814453125
+    },
+    "vev20he.jpg": {
+        "hue": 305.516,
+        "saturation": 58.2791,
+        "brightness": 83.4939,
+        "pixels": 69904,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.05333251953125
+    },
+    "vev21he.jpg": {
+        "hue": 323.615,
+        "saturation": 36.3862,
+        "brightness": 86.2232,
+        "pixels": 388444,
+        "width": 1280,
+        "height": 1024,
+        "coverage": 0.2963592529296875
+    },
+    "VM_KappenstadiumFetus6cm_039x.jpg": {
+        "hue": 309.873,
+        "saturation": 30.5597,
+        "brightness": 93.5497,
+        "pixels": 55965,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1901398401826484
+    },
+    "VM_Zahnanlage_Katze_1x.jpg": {
+        "hue": 218.298,
+        "saturation": 87.0031,
+        "brightness": 81.6252,
+        "pixels": 45649,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.15509146010002176
+    },
+    "z03s1105.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "z04z0713.jpg": {
+        "hue": 286.085,
+        "saturation": 52.8279,
+        "brightness": 59.9465,
+        "pixels": 3701,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.012574065014133507
+    },
+    "z06h0103.jpg": {
+        "hue": 310.433,
+        "saturation": 31.9078,
+        "brightness": 63.6072,
+        "pixels": 64792,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.22012937595129375
+    },
+    "z08l1305.jpg": {
+        "hue": 0,
+        "saturation": 0,
+        "brightness": 100,
+        "pixels": 0,
+        "width": 584,
+        "height": 504,
+        "coverage": 0
+    },
+    "z12l0532.jpg": {
+        "hue": 258.648,
+        "saturation": 39.8849,
+        "brightness": 87.142,
+        "pixels": 185193,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.6291890900195695
+    },
+    "z12l0537.jpg": {
+        "hue": 259.206,
+        "saturation": 35.1684,
+        "brightness": 91.9958,
+        "pixels": 92793,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.31526214938030006
+    },
+    "z14l1621.jpg": {
+        "hue": 332.403,
+        "saturation": 32.0198,
+        "brightness": 87.4522,
+        "pixels": 168247,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.5716154327027615
+    },
+    "z26h0102.jpg": {
+        "hue": 25.8447,
+        "saturation": 60.8684,
+        "brightness": 87.5572,
+        "pixels": 108997,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.3703148782343988
+    },
+    "z38z1013.jpg": {
+        "hue": 315.634,
+        "saturation": 37.8932,
+        "brightness": 46.951,
+        "pixels": 3132,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.010640900195694716
+    },
+    "z38z1020.jpg": {
+        "hue": 262.761,
+        "saturation": 49.8664,
+        "brightness": 54.8459,
+        "pixels": 3839,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.013042916938464884
+    },
+    "Zahn5_Mensch_12x.jpg": {
+        "hue": 12.5268,
+        "saturation": 32.3265,
+        "brightness": 81.9687,
+        "pixels": 36134,
+        "width": 584,
+        "height": 504,
+        "coverage": 0.1227644596651446
+    }
+}

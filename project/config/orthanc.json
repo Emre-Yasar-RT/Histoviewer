@@ -1,0 +1,69 @@
+{
+  "AuthenticationEnabled": false,
+  "RemoteAccessAllowed": true,
+  "RestApiWriteToFileSystemEnabled": true,
+
+  "HttpServer": {
+    "Enabled": true,
+    "Port": 8042,
+    "DescribeErrors": true,
+    "CompressionEnabled": false,
+    "ThreadsCount": 50,
+    "RequestTimeout": 30
+  },
+
+  "DicomServer": {
+    "Enabled": true,
+    "Aet": "ORTHANC",
+    "Port": 4242,
+    "AlwaysAllowEcho": true,
+    "AlwaysAllowStore": true
+  },
+
+  "DicomWeb": {
+    "EnableWado": true,
+    "EnableStow": true,
+    "EnableQido": true,
+    "EnableWadoRs": true,
+    "EnableQidoRs": true,
+    "EnableStowRs": true,
+    "Enable": true,
+    "Root": "/dicom-web/"
+  },
+
+  "Storage": {
+    "StoreDicom": true,
+    "AccessOnFind": "Always",
+    "LimitFindResults": 0,
+    "LimitFindInstances": 0
+  },
+
+  "Security": {
+    "SslEnabled": false,
+    "SslCertificate": "",
+    "SslPrivateKey": "",
+    "SslTrustedClientCertificates": ""
+  },
+
+  "CorsHeaders": {
+    "Enabled": true,
+    "AllowedOrigin": "*",
+    "AllowedHeaders": "Authorization, Content-Type, Accept",
+    "AllowedMethods": "GET, POST, PUT, DELETE, OPTIONS",
+    "AllowCredentials": true
+  },
+
+  "Performance": {
+    "KeepAlive": true,
+    "TcpNoDelay": true
+  },
+
+  "Plugins": [
+    "/usr/share/orthanc/plugins/libOrthancDicomWeb.so"
+  ],
+
+  "PluginFolder": "/usr/share/orthanc/plugins",
+
+  "MetricsEnabled": true,
+  "ExecuteLuaEnabled": false
+}

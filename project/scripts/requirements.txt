@@ -1,0 +1,4 @@
+pydicom
+Pillow
+requests
+numpy

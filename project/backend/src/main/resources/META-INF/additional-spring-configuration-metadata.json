@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "orthanc.url",
+      "type": "java.lang.String",
+      "description": "Description for orthanc.url."
+  }
+] }

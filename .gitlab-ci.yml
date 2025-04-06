@@ -1,0 +1,65 @@
+stages:
+  - build
+  - test
+  - deploy
+
+variables:
+  SSH_USER: "mip"
+  SSH_HOST: "v000563.fhnw.ch"
+
+build:
+  stage: build
+  image: maven:3.8.6-eclipse-temurin-17
+  before_script:
+    - apt-get update && apt-get install -y openssh-client tar gzip
+  script:
+    - cd histoviewer/histoviewer
+    - mvn clean package
+    - mv target/*.jar target/app.jar
+  artifacts:
+    paths:
+      - histoviewer/histoviewer/target/app.jar
+      - histoviewer/histoviewer/target/classes
+    expire_in: 1 hour
+
+sonarqube:
+  image: sonarsource/sonar-scanner-cli:latest
+  stage: test
+  dependencies:
+    - build
+  script:
+    - export SONAR_SCANNER_OPTS="-Dsonar.web.context=/sonarqube"
+    - sonar-scanner -Dsonar.projectKey=histoviewer
+                    -Dsonar.sources=histoviewer/histoviewer/src
+                    -Dsonar.java.binaries=histoviewer/histoviewer/target/classes
+                    -Dsonar.host.url=https://v000563.fhnw.ch/sonarqube
+                    -Dsonar.token=$SONAR_TOKEN
+
+
+
+
+deploy:
+  stage: deploy
+  image: debian:stable-slim
+  dependencies:
+    - build
+  before_script:
+    - apt-get update && apt-get install -y openssh-client tar gzip rsync
+    - mkdir -p ~/.ssh
+    - echo "$SSH_PRIVATE_KEY_BASE64" | base64 -d > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - eval $(ssh-agent -s)
+    - ssh-add ~/.ssh/id_rsa
+    - ssh-keyscan $SSH_HOST >> ~/.ssh/known_hosts
+  script:
+    - mkdir -p histoviewer/histoviewer/server_dockerfile/target
+    - cp histoviewer/histoviewer/target/app.jar histoviewer/histoviewer/server_dockerfile/target/app.jar
+    - mkdir -p histoviewer/histoviewer/data
+    - rm -rf histoviewer/histoviewer/data/characteristic_colors_corrected.json
+    - cp histoviewer/histoviewer/src/main/color/characteristic_colors_corrected.json histoviewer/histoviewer/data/
+    - rsync -av --delete --exclude='.git' --exclude='certbot/***' --exclude='monitoring/' ./ $SSH_USER@$SSH_HOST:/home/$SSH_USER/histoviewer-deploy/
+    - ssh $SSH_USER@$SSH_HOST "
+        cd ~/histoviewer-deploy/histoviewer/histoviewer &&
+        docker compose down || true &&
+        docker compose up -d --build
+      "

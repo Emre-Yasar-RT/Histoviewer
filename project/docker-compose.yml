@@ -1,0 +1,165 @@
+services:
+  orthanc:
+    container_name: orthanc
+    image: orthancteam/orthanc
+    restart: unless-stopped
+    ports:
+      - "8042:8042"
+      - "4242:4242"
+    volumes:
+      - /home/mip/orthanc_data:/var/lib/orthanc/db
+      - ./config/orthanc.json:/etc/orthanc/orthanc.json
+    networks:
+      - histoviewer
+
+  nginx_web:
+    container_name: nginx_web
+    image: nginx:latest
+    restart: unless-stopped
+    depends_on:
+      - orthanc
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./config/nginx.conf:/etc/nginx/nginx.conf:ro
+      - ./react_frontend/build:/usr/share/nginx/html
+      - ./certbot/www:/var/www/certbot
+      - ./certbot/conf:/etc/letsencrypt
+    networks:
+      - histoviewer
+
+  dicom-uploader:
+    container_name: dicom_uploader
+    build: ./scripts
+    restart: unless-stopped
+    depends_on:
+      orthanc:
+        condition: service_started
+    volumes:
+      - /home/mip/allJPEGImages:/data/allJPEGImages
+      - /home/mip/allDICOMImages:/data/allDICOMImages
+      - ./data/allImageMetadata.xml:/data/allImageMetadata.xml
+    command: ["sh", "-c", "until curl -s http://orthanc:8042/instances; do echo 'Warte auf Orthanc...'; sleep 5; done && python convert_and_upload.py && tail -f /dev/null"]
+    networks:
+      - histoviewer
+
+  frontend-starter:
+    container_name: frontend_starter
+    build: ./react_frontend
+    restart: unless-stopped
+    depends_on:
+      - orthanc
+    networks:
+      - histoviewer
+
+  postgres_db:
+    container_name: postgres
+    image: postgres:13
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: histoviewer_postgres
+      POSTGRES_USER: postgres_user
+      POSTGRES_PASSWORD: postgres_password
+    ports:
+      - "5432:5432"
+    volumes:
+      - /home/mip/postgres_data:/var/lib/postgresql/data
+    networks:
+      - histoviewer
+
+  spring_boot_rest_api:
+    container_name: rest_api
+    build: ./server_dockerfile
+    restart: unless-stopped
+    depends_on:
+      postgres_db:
+        condition: service_started
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data/allImageMetadata.xml:/app/allImageMetadata.xml
+      - ./data/characteristic_colors_corrected.json:/app/characteristic_colors_corrected.json
+    networks:
+      - histoviewer
+       
+  sonarqube:
+    image: sonarqube:community
+    volumes:
+      - sonarqube_data:/opt/sonarqube/data
+      - sonarqube_extensions:/opt/sonarqube/extensions
+      - sonarqube_logs:/opt/sonarqube/logs
+      - ./sonar.properties:/opt/sonarqube/conf/sonar.properties
+    ports:
+      - "9000:9000"
+    networks:
+      - histoviewer
+
+  prometheus:
+    image: prom/prometheus  
+    container_name: prometheus  
+    ports:    
+      - "9090:9090"  
+    volumes:    
+      - ./prometheus.yml:/etc/prometheus/prometheus.yml  
+    networks:    
+      - histoviewer
+ 
+
+  grafana:
+    container_name: grafana
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - /:/rootfs:ro    
+      - /var/run:/var/run:ro    
+      - /sys:/sys:ro    
+      - /var/lib/docker/:/var/lib/docker:ro
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=admin
+      - GF_SERVER_ROOT_URL=https://v000563.fhnw.ch/grafana/
+    networks:
+      - histoviewer
+
+
+  cadvisor:
+    container_name: cadvisor
+    image: gcr.io/cadvisor/cadvisor:latest
+    restart: unless-stopped
+    ports:
+      - "8082:8080"
+    volumes:
+      - /:/rootfs:ro
+      - /var/run:/var/run:ro
+      - /sys:/sys:ro
+      - /var/lib/docker/:/var/lib/docker:ro
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    networks:
+      - histoviewer
+
+  blackbox:
+    container_name: blackbox
+    image: prom/blackbox-exporter
+    restart: unless-stopped
+    ports:
+      - "9115:9115"
+    volumes:
+      - ./blackbox.yml:/etc/blackbox/blackbox.yml  
+    networks:
+      - histoviewer
+
+  
+
+networks:
+  histoviewer:
+    name: histoviewer
+    driver: bridge
+
+
+volumes:
+  sonarqube_data:
+  sonarqube_extensions:
+  sonarqube_logs:
+

@@ -1,0 +1,27 @@
+.allImages {
+    display: flex;
+    flex-direction: row;
+    overflow-y: scroll;
+    flex-wrap: wrap;
+    max-height: 100vh;
+    padding-left: 10px;
+}
+
+.imageInstance {
+    padding: 3px;
+    width: 50px;
+    height: auto;
+}
+
+.imageInstance {
+    transition: transform 0.1s ease; /* Smooth transition */
+}
+
+.active {
+    padding: 3px;
+    width: 50px;
+    height: auto;
+    border-style: solid;
+    border-color: blue;
+    border-width: 5px;
+}
